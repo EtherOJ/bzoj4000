@@ -1,0 +1,5 @@
+name: 四维打击
+source: bzoj (OI-Archive)
+time_limit: 100000
+timing_mode: total
+space_limit: 512
