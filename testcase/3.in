@@ -1,0 +1,1345 @@
+64
+18 18
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0
+AG_EF_AF_AD_BE_BC_
+BH_EF_FG_CH_CF_CE_
+__________________
+BE_AC_BC_EF_DD_AE_
+DH_BH_BG_EH_DF_CH_
+__________________
+AE_AB_BB_AF_BE_EG_
+DG_AE_BB_AF_EG_EH_
+__________________
+DE_AD_CD_BF_BG_AG_
+EG_DE_CH_CG_EG_CG_
+__________________
+AC_BC_AB_CG_FH_CH_
+BE_CE_BG_FH_GH_GH_
+__________________
+AF_BE_BD_AH_AF_DG_
+EG_EF_CH_DH_CG_EH_
+__________________
+18 18
+0 0 0 0 -1 0 0 -1 0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+AF_AG_DH_BG_BH_AG_
+BH_CG_EH_EH_FH_EH_
+__________________
+BE_AH_DH_BD_AF_CE_
+CG_AH_FH_CG_CH_EH_
+__________________
+BE_DG_AE_BG_BE_DF_
+CG_GH_AH_CH_CH_DG_
+__________________
+CF_AF_CE_CG_AC_BE_
+EF_DF_DF_CH_BH_DF_
+__________________
+AF_AD_AG_AE_AE_CD_
+EH_CE_GH_EG_AF_DG_
+__________________
+AC_BD_BG_BG_DE_AD_
+BH_CE_GG_BH_DF_BH_
+__________________
+18 18
+1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 -1 0 0
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 -1 0 0
+EE_AC_AF_CG_AC_AF_
+EG_CG_DH_DH_CG_EG_
+__________________
+DF_BF_AE_AC_AE_AE_
+EH_DG_BF_BE_CG_CH_
+__________________
+AF_CE_AE_CE_AF_CE_
+CH_DE_CG_DF_DH_CG_
+__________________
+AE_AH_AE_DF_CF_AF_
+CE_BH_BH_FH_FG_CF_
+__________________
+CF_BE_AB_BG_CE_AD_
+EG_BF_BC_DH_DG_CE_
+__________________
+AE_CD_DG_CE_AE_BG_
+BF_CD_FH_DH_EF_FH_
+__________________
+18 18
+0 0 0 0 0 0 0 0 -1 0 0 1 0 -1 0 0 0 0
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 -1
+BE_BF_EF_HH_AG_AH_
+CH_BF_EH_HH_CG_DH_
+__________________
+CG_AC_AE_AB_BG_BF_
+EH_AH_EH_BG_DG_CG_
+__________________
+CD_BF_FG_CG_BH_BE_
+CE_FF_GH_CH_CH_CE_
+__________________
+CE_AF_BB_AG_AF_AB_
+DF_EF_BB_BG_EG_BH_
+__________________
+CE_CD_CD_BE_AE_AC_
+CG_CE_DF_CF_EF_BE_
+__________________
+AC_CE_AE_AC_AB_BG_
+CE_CG_BH_AF_BG_DH_
+__________________
+18 18
+0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 -1 0 0
+0 0 0 -1 0 0 -1 0 0 0 -1 -1 0 0 0 0 0 0
+AC_AE_AC_BD_AG_BC_
+BG_DH_BH_CD_DH_CH_
+__________________
+BB_AF_BG_AE_BG_BG_
+BG_DF_BH_CE_DH_CH_
+__________________
+FG_DH_BC_DG_AG_BC_
+FG_EH_CF_GG_FH_CC_
+__________________
+AE_AF_EE_BE_CF_CH_
+EF_EH_EF_DH_EG_GH_
+__________________
+AE_DE_AG_BC_AD_AD_
+BH_DE_DH_CF_BE_CG_
+__________________
+BF_BC_DF_AG_AB_BC_
+CG_BH_FH_DG_BG_BE_
+__________________
+18 18
+-1 -1 0 0 -1 -1 1 1 0 0 0 0 -1 0 0 -1 1 -1
+-1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+BC_AB_AD_AF_BD_AD_
+BD_AD_BG_BG_CF_CH_
+__________________
+AE_CE_BF_AG_CF_AG_
+CH_CH_FG_DH_CG_BH_
+__________________
+CG_CG_AE_AD_BF_AC_
+EH_EG_CG_BF_BG_BG_
+__________________
+AC_EH_BE_AC_FG_AE_
+AF_FH_DF_CF_FH_CE_
+__________________
+BE_AE_BD_BF_AE_CD_
+CH_EE_CG_DG_DG_DF_
+__________________
+BG_AE_AF_AE_BH_AF_
+CG_AG_BG_DG_HH_FG_
+__________________
+18 18
+0 1 0 0 0 0 0 0 -1 0 -1 1 0 0 -1 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BE_BH_CE_AF_AB_EF_
+DH_DH_DF_DF_AD_FH_
+__________________
+AC_AC_CC_AG_BG_FH_
+BG_AF_CF_BH_FH_GH_
+__________________
+AC_AE_CF_CG_BE_AD_
+CD_EE_DF_DH_BF_CF_
+__________________
+AE_AG_AE_BD_CF_AE_
+BF_FH_BH_DE_CH_BH_
+__________________
+CG_DH_AF_BD_AF_AH_
+GH_EH_AH_DE_AH_DH_
+__________________
+AE_BE_AE_BF_AD_AA_
+AH_DE_DE_BG_BF_AD_
+__________________
+18 18
+0 0 0 -1 0 0 1 0 0 -1 0 1 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0
+CE_AC_BE_BD_CF_BH_
+CG_BG_DG_CE_CG_CH_
+__________________
+BC_AF_AC_CE_AE_AF_
+CF_DH_BG_CG_BG_BH_
+__________________
+BF_FG_CE_AG_AF_CE_
+CG_GH_DF_CG_AF_DE_
+__________________
+BF_BF_EE_AC_CG_CE_
+EG_EH_EF_BG_CG_DH_
+__________________
+AD_BD_AB_BG_AC_AG_
+CE_DH_AH_CG_CH_FH_
+__________________
+BG_AD_BD_AD_AE_BF_
+CH_CH_CH_CF_DH_EG_
+__________________
+18 18
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+CF_BG_BG_BE_BC_AG_
+DH_CG_CH_CF_CH_CG_
+__________________
+AC_AC_DG_AG_AF_BC_
+CG_CH_DH_EH_AH_CH_
+__________________
+AE_BE_BE_AD_AD_AE_
+DG_CE_BF_CH_CE_AH_
+__________________
+CF_BE_AE_BH_AC_CF_
+CH_CH_BH_DH_BF_DF_
+__________________
+CD_BF_AH_DF_AA_AE_
+DG_CH_DH_EG_AH_BH_
+__________________
+AE_BG_DE_AC_BF_AD_
+EF_FG_DH_BD_EG_AE_
+__________________
+18 18
+1 1 0 -1 -1 1 0 1 1 1 1 0 0 -1 0 0 1 -1
+1 1 0 -1 0 1 0 1 -1 1 0 0 0 -1 0 1 1 0
+BH_AC_AF_EG_DH_DG_
+EH_BH_CH_GG_HH_FG_
+__________________
+AE_BF_AD_CG_BH_DE_
+EF_CF_BG_FH_EH_DF_
+__________________
+AC_AG_CE_BD_CE_DF_
+AH_EG_EH_CF_DE_FF_
+__________________
+BC_AA_EG_DH_BC_AG_
+CH_AC_FH_FH_CD_EG_
+__________________
+AG_BF_AD_BD_CE_AH_
+AH_CH_CF_CG_DH_GH_
+__________________
+AD_CE_BH_AF_BE_AE_
+DG_DG_DH_BH_BH_EH_
+__________________
+18 18
+-1 -1 0 0 0 0 0 0 1 0 -1 0 0 0 0 0 1 1
+-1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 -1 -1 0
+AD_CG_AB_BE_AD_CD_
+AG_EG_BH_DH_AH_CG_
+__________________
+AG_AC_BE_AE_AG_DF_
+AH_CH_CG_DH_FH_EG_
+__________________
+BG_DD_BG_BE_AB_AC_
+CG_DF_FH_EH_AC_BD_
+__________________
+AH_DF_BF_AC_CE_AE_
+BH_EH_DH_CE_EF_EH_
+__________________
+FG_CF_BF_EG_EG_AG_
+FH_DH_FG_FH_FH_GG_
+__________________
+AC_AF_CE_AE_AD_CE_
+BD_BH_EF_BF_DH_DH_
+__________________
+18 18
+0 0 0 0 -1 0 0 0 0 1 0 0 0 0 0 0 0 0
+-1 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 -1 0
+CF_BG_BG_BE_CD_BH_
+EF_FH_EH_DH_CG_EH_
+__________________
+CF_BG_AD_BG_CC_AE_
+EG_CH_CD_FG_CE_EG_
+__________________
+CG_GH_DF_CD_AG_BH_
+DH_HH_DH_DG_FH_FH_
+__________________
+AE_BG_DF_AD_AD_AE_
+BG_FH_EG_AF_DF_CE_
+__________________
+BE_DG_EG_CD_CF_AG_
+CH_EH_FH_DH_EH_AG_
+__________________
+EH_BE_AG_BG_CG_AD_
+FH_CG_AG_FH_FG_BD_
+__________________
+18 18
+0 0 0 0 -1 -1 0 0 -1 -1 1 0 0 0 -1 1 0 0
+0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+AE_BE_DG_BE_AD_BD_
+BF_EG_EH_CH_BH_BE_
+__________________
+AA_CH_BC_BE_DF_BE_
+AH_FH_BD_DG_EH_DF_
+__________________
+CF_CF_EG_AE_CF_BG_
+EH_EF_EH_BF_EH_BH_
+__________________
+DF_CH_AG_BD_AD_AG_
+DF_GH_EH_CF_CG_FG_
+__________________
+DG_BG_DF_CC_AE_BF_
+EH_DH_FH_CH_DH_CH_
+__________________
+BF_BH_BF_DE_CE_BE_
+CG_FH_BG_EF_DH_DE_
+__________________
+18 18
+1 0 0 -1 0 0 0 0 0 0 0 1 0 0 0 -1 -1 0
+0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 1 0
+AE_AE_AE_BD_CG_CE_
+BE_CF_EF_CG_GH_CG_
+__________________
+AF_AD_EF_AG_BE_AC_
+DH_BG_EH_DH_BF_CH_
+__________________
+AH_FG_AC_CF_AG_BE_
+GH_FH_BE_EH_FH_CE_
+__________________
+DH_CF_FG_AB_BG_AG_
+EH_FG_GG_AE_EG_CH_
+__________________
+BD_BD_AC_AC_EG_CG_
+CE_DG_BG_BE_FG_FH_
+__________________
+AE_AD_AE_BF_BF_AE_
+DH_CH_DG_BH_EG_BG_
+__________________
+18 18
+0 0 -1 -1 0 0 0 0 -1 1 1 1 0 -1 0 -1 1 0
+1 -1 0 0 -1 1 -1 0 1 1 -1 -1 0 0 0 1 -1 0
+AF_BE_AE_CG_BH_AG_
+DG_DE_CG_EG_HH_FG_
+__________________
+AF_DG_AF_BH_AD_AC_
+AG_DH_CH_DH_BE_BD_
+__________________
+BD_BC_BF_DG_FG_DF_
+CF_BF_CH_GG_FH_EH_
+__________________
+AF_AE_AA_AF_CF_BD_
+CF_DG_AH_DF_FH_DE_
+__________________
+AE_FH_CD_EH_BC_AD_
+DH_GH_DH_HH_BH_DG_
+__________________
+BE_DF_BF_AD_AG_CE_
+CG_FH_CH_CE_EH_EF_
+__________________
+18 18
+-1 1 0 0 0 0 -1 0 0 0 0 1 0 0 0 1 -1 0
+0 0 0 0 0 -1 0 0 0 0 1 0 0 0 0 1 1 0
+AD_AF_AG_CE_AE_AF_
+AF_BG_AG_DH_AG_BG_
+__________________
+BE_CF_BH_AD_BE_AD_
+DE_DH_BH_CH_DF_CE_
+__________________
+DH_BE_BD_AE_CH_AB_
+DH_DE_DE_DG_CH_BD_
+__________________
+BD_BD_AC_AD_BE_CF_
+BE_CE_CD_BG_CF_DH_
+__________________
+AD_AE_AF_BC_CE_AG_
+BE_BG_EH_CD_DF_EH_
+__________________
+CF_AG_BF_BE_AC_EF_
+CH_GG_DG_EH_BG_FH_
+__________________
+18 18
+0 0 -1 1 -1 -1 -1 0 0 1 0 0 0 0 0 0 0 1
+-1 -1 -1 0 1 1 -1 0 1 0 0 1 0 -1 0 -1 -1 0
+BE_BE_FG_BG_BF_BH_
+DG_CH_FH_CH_DH_HH_
+__________________
+CC_BD_AD_BE_AC_AD_
+CD_BH_CG_CE_CE_CH_
+__________________
+AF_CG_FH_AF_AE_CF_
+CG_CH_GH_BG_CE_CF_
+__________________
+AE_AD_BD_CF_BG_AD_
+CF_BD_CF_FG_EG_DE_
+__________________
+AD_BE_DH_BF_BE_AD_
+BF_DE_GH_DG_DF_BE_
+__________________
+DF_CC_AD_CF_BF_BE_
+DH_CG_CF_DH_CH_CG_
+__________________
+18 18
+0 0 0 -1 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 -1 0 0
+CE_BG_AG_BH_AD_AC_
+DH_EG_DH_HH_DF_BG_
+__________________
+AE_BE_CG_AD_EF_DH_
+BE_CH_DG_CG_EG_FH_
+__________________
+DG_AE_AB_AB_BE_CD_
+FG_AG_BG_BC_CF_CE_
+__________________
+CF_AC_AD_AF_BH_AD_
+DG_CF_AH_BF_EH_BE_
+__________________
+DF_AD_AB_AH_BC_BF_
+DG_DF_BE_DH_BF_EG_
+__________________
+AB_AH_CC_AF_AD_BF_
+BF_FH_CF_FH_BF_CG_
+__________________
+18 18
+0 0 1 0 0 1 0 0 0 0 0 -1 1 0 1 0 0 0
+0 0 0 1 0 0 -1 -1 0 -1 1 -1 -1 0 -1 0 0 -1
+AG_EF_AD_AE_BF_CF_
+GH_FG_CG_DF_EH_CG_
+__________________
+CD_AA_BF_AF_AD_BC_
+DE_AD_EH_BH_CH_BH_
+__________________
+BD_AE_BD_BG_AE_CE_
+DF_AF_CH_BG_EF_DH_
+__________________
+AE_CC_CH_CD_AD_AG_
+BF_CE_DH_CG_BH_AG_
+__________________
+CE_DG_AF_AF_BG_AG_
+DH_FG_FF_BG_BH_FH_
+__________________
+CH_BD_BE_AD_AD_CF_
+FH_BG_DH_BH_AG_EF_
+__________________
+18 18
+-1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 0 -1 0 1 0 0 0 1 0 0
+AC_AC_CF_CE_CD_CF_
+BE_BC_CG_CF_DF_FG_
+__________________
+AG_AD_AE_DD_CG_AC_
+FH_AE_DE_DF_EH_BD_
+__________________
+AE_AD_BF_AD_EF_AC_
+DH_BF_DH_AF_EG_CG_
+__________________
+BE_AF_AE_AF_AD_AD_
+CF_DH_CG_EF_CF_CF_
+__________________
+BG_AG_BG_DF_FG_BD_
+CG_AG_CH_EG_GH_DH_
+__________________
+BG_BD_AH_AB_BH_AE_
+DH_CH_CH_BG_DH_DG_
+__________________
+18 18
+0 0 0 -1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0
+1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0
+AD_DE_BE_AE_DG_EG_
+AG_EF_BH_DF_EH_FH_
+__________________
+AD_AD_BF_AG_AB_CG_
+BE_AH_CH_DH_BH_FG_
+__________________
+CF_BC_EG_AD_BE_CE_
+DH_CE_EH_CF_CF_DH_
+__________________
+BC_AE_AF_AC_BD_AC_
+BH_BF_BH_AF_CE_BH_
+__________________
+AC_AE_CF_AE_AE_AD_
+BF_CE_EH_BH_EH_AD_
+__________________
+BC_BE_AG_AF_BF_AC_
+CH_DF_CH_BH_CG_AG_
+__________________
+18 18
+0 1 0 -1 1 -1 0 0 1 1 0 -1 0 1 1 -1 0 0
+0 0 -1 0 0 0 0 -1 0 0 0 -1 1 0 -1 -1 0 0
+AE_AC_AD_DF_DH_AC_
+CG_AF_DG_DH_GH_BF_
+__________________
+BF_CD_AF_AF_CF_FG_
+CG_CF_CH_AF_EG_FH_
+__________________
+AF_AB_AB_CD_AD_BD_
+CF_AC_AG_CF_DF_DG_
+__________________
+AC_DE_CG_CG_BG_AC_
+BF_DH_EG_GH_FH_AC_
+__________________
+BD_CD_AB_AE_CF_BD_
+CF_CH_AH_EF_EH_DG_
+__________________
+BC_CF_BE_CE_BB_AD_
+BH_DG_CH_EE_BD_CH_
+__________________
+18 18
+0 1 0 0 -1 0 0 0 1 0 0 0 -1 0 0 1 0 0
+0 -1 0 1 1 1 0 0 0 0 0 -1 0 1 0 0 0 0
+AB_AG_EG_BF_AD_AB_
+BC_FH_FH_FH_BE_BE_
+__________________
+AB_AC_BG_BF_BE_CF_
+AH_CF_CG_CG_CF_DF_
+__________________
+EF_DF_AE_AD_BE_AG_
+FH_EH_AH_DE_BH_FH_
+__________________
+AG_CF_AC_BF_CF_AF_
+GH_FH_BC_CG_DF_EG_
+__________________
+BF_AD_DG_AD_CE_BE_
+BH_DF_FH_DH_CG_DG_
+__________________
+AG_CH_CG_AD_CF_EH_
+CH_GH_CH_CG_EG_EH_
+__________________
+18 18
+0 0 0 -1 0 0 0 0 0 0 0 -1 0 -1 0 0 1 0
+0 0 1 0 1 0 0 0 0 0 0 -1 0 0 0 0 0 0
+BE_BE_CE_AB_AE_BG_
+BH_DH_DG_AD_DF_FH_
+__________________
+DE_BE_BE_CD_DH_AE_
+EG_DG_CH_CE_EH_BE_
+__________________
+AE_CF_CD_AF_AD_BG_
+AG_EG_CH_EH_AF_EG_
+__________________
+CF_BG_BE_BE_AG_BE_
+DF_CH_DF_EH_EG_CH_
+__________________
+CD_AA_AE_AE_DE_BG_
+DG_AC_AF_DE_EG_FH_
+__________________
+CE_BE_BE_AG_AG_AB_
+DH_EF_CG_BH_FH_BH_
+__________________
+18 18
+0 0 1 0 0 -1 0 0 0 -1 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+AG_AE_EG_AE_AB_AD_
+GH_AF_EG_CG_BH_BH_
+__________________
+AF_BD_AF_CE_BH_DG_
+EH_CH_AG_EH_GH_FG_
+__________________
+CH_AH_CG_AC_CE_BC_
+EH_FH_CH_CF_DG_CD_
+__________________
+BD_AE_DF_AE_AC_AH_
+CG_EF_DH_CG_BC_BH_
+__________________
+EH_AG_DD_CF_BE_AD_
+GH_DH_DH_CH_DF_CH_
+__________________
+AC_DF_AF_BC_BE_BG_
+AF_FH_CH_BH_EG_DH_
+__________________
+18 18
+0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0
+0 0 1 1 0 1 0 0 -1 0 0 0 0 0 0 0 1 1
+BF_AF_AF_BF_AD_AE_
+DG_EG_BH_EG_CG_CF_
+__________________
+AF_AE_AB_CG_AB_AC_
+EH_CF_BC_CH_BC_BC_
+__________________
+BD_AB_DG_AA_AG_BF_
+CF_BF_FH_AF_AH_CG_
+__________________
+BG_AC_BF_BD_AB_AB_
+BG_BH_DG_CG_BF_AE_
+__________________
+CD_AE_BE_BG_BD_CF_
+CD_CF_DH_DH_DG_EG_
+__________________
+BF_BD_DF_CE_BD_AD_
+BG_BE_FH_EH_CF_AE_
+__________________
+18 18
+0 0 0 0 0 0 1 0 -1 0 0 0 0 0 0 0 -1 0
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+BF_AD_AE_AF_AE_AE_
+EF_BF_AF_AG_CF_DH_
+__________________
+AF_FG_AD_BD_AD_AD_
+CH_GH_AH_CF_CG_AF_
+__________________
+AC_AC_CE_BD_BE_BG_
+BH_BH_DG_CE_DE_CH_
+__________________
+BD_AD_FH_AD_CE_BB_
+CG_AE_GH_AH_EH_BD_
+__________________
+BB_DF_BE_BG_CE_AF_
+BF_DH_EF_FG_EF_CG_
+__________________
+BF_AF_AD_EG_AB_AD_
+FH_FG_BG_FH_AH_CE_
+__________________
+18 18
+0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0
+0 0 0 0 1 -1 0 0 -1 0 0 0 0 0 0 0 0 0
+BF_AF_CD_EF_DH_AE_
+EF_BF_DF_EG_EH_AH_
+__________________
+DH_DH_BF_BB_AD_CF_
+EH_GH_DH_BD_BD_EH_
+__________________
+AE_EF_BG_CD_DE_CG_
+DG_EG_EH_DH_EG_EH_
+__________________
+AD_DF_DG_AG_BE_EH_
+AE_EG_FG_BH_CF_GH_
+__________________
+DH_BG_BE_CD_AD_AC_
+EH_CH_CH_CG_BF_BF_
+__________________
+DG_BD_FH_AC_AG_BF_
+GG_BH_GH_BH_EH_DH_
+__________________
+18 18
+0 0 -1 0 0 0 0 0 0 1 0 0 0 -1 0 -1 0 0
+0 1 0 0 0 -1 1 0 0 -1 0 1 0 1 0 1 0 -1
+AD_FG_DF_AF_DE_BE_
+AH_FG_EF_DG_EE_CG_
+__________________
+BH_HH_BG_DG_AC_DH_
+DH_HH_GH_DG_CG_GH_
+__________________
+CH_AC_AC_AD_AD_AE_
+EH_BH_BG_CH_BH_DE_
+__________________
+CF_BH_AC_DG_AF_AF_
+DG_FH_BE_EG_EG_BH_
+__________________
+AC_AE_AE_BD_AF_CF_
+BG_CH_CH_CG_EH_CG_
+__________________
+AE_BH_AD_GG_AB_BE_
+DE_FH_AE_GH_AH_DH_
+__________________
+18 18
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 -1 -1 0 -1 0 0 0 0 0 0 0 0
+AC_AF_AC_AG_AC_CE_
+CH_CF_BH_DH_BE_EG_
+__________________
+CD_AD_BH_AG_AE_BG_
+DF_CF_GH_EH_AG_BH_
+__________________
+AD_DH_EF_BH_BE_BF_
+DG_EH_FH_GH_CH_CH_
+__________________
+FG_EG_CD_AE_BE_AC_
+FH_FH_CG_BG_DH_BD_
+__________________
+AB_DG_AG_BD_AE_AC_
+AH_EG_CH_CG_CF_CE_
+__________________
+AC_BF_BF_BD_CD_BF_
+BD_EH_DG_CE_DG_EH_
+__________________
+18 18
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 1 -1 0 0 0 0 1 0 0 0 1
+AC_CG_AD_AA_BC_AD_
+BD_FH_DD_AE_CG_CG_
+__________________
+AG_FH_CF_DH_EG_CE_
+BH_GH_EH_EH_FH_EE_
+__________________
+BH_AE_AD_AF_DF_BE_
+BH_CG_AH_EG_FG_CF_
+__________________
+AD_EH_AD_AE_BF_BC_
+AE_FH_AG_DF_DG_CG_
+__________________
+CD_CG_EE_AG_EF_AE_
+CE_FH_EG_CH_FH_BE_
+__________________
+BG_AF_FG_AD_BC_AD_
+CH_CH_GG_BG_CD_DH_
+__________________
+18 18
+0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0
+AE_AD_DF_CF_CF_BE_
+AE_CH_EG_EG_EG_CG_
+__________________
+BD_CD_BC_BG_BG_AE_
+BH_DF_BD_DH_EH_AH_
+__________________
+AC_DF_BF_AE_AF_AD_
+AH_EG_FG_CE_FG_CH_
+__________________
+BE_CG_BD_AE_AD_AC_
+DF_FG_CE_CF_CE_BD_
+__________________
+AD_BD_BC_BE_BE_AC_
+CF_CG_CD_DH_CH_CH_
+__________________
+AE_AB_BC_CD_BF_CE_
+BF_BC_BD_CE_CG_DH_
+__________________
+18 18
+1 0 0 -1 0 0 0 0 1 0 0 0 0 0 0 0 -1 0
+0 -1 0 0 0 -1 0 -1 1 0 0 0 -1 0 -1 -1 -1 -1
+BD_AC_AC_DD_BC_FG_
+BG_BE_AH_DE_CG_FH_
+__________________
+EE_BG_AF_AF_AB_AC_
+EF_GH_BH_EG_AG_BC_
+__________________
+AC_AD_AB_AD_AE_AC_
+AD_BH_BB_DH_DG_AG_
+__________________
+BE_CF_CG_EF_BF_AD_
+DG_CH_GH_EH_CF_CE_
+__________________
+AB_BF_BD_DE_EG_AH_
+AF_EF_BG_DF_FH_DH_
+__________________
+AF_DF_AD_CE_BH_BG_
+DH_EG_BD_DH_BH_CH_
+__________________
+18 18
+0 0 1 1 -1 0 1 0 -1 1 -1 1 0 -1 0 -1 0 0
+-1 0 0 0 0 0 0 0 1 1 1 0 1 0 1 0 1 0
+AD_EG_CF_AC_DH_AC_
+DE_FH_FH_CC_FH_AE_
+__________________
+AD_DG_BC_AE_BC_BD_
+BH_EH_CD_CF_BE_BE_
+__________________
+AE_CE_BC_BE_CH_AC_
+BE_CH_BG_DE_GH_CE_
+__________________
+BF_AF_CG_BB_AD_BD_
+DF_DG_FH_BC_AF_DE_
+__________________
+BH_CF_AC_AD_AB_AC_
+BH_FG_AE_CG_AC_AH_
+__________________
+BC_EG_BG_CD_CG_DG_
+CF_EG_FH_CD_EG_EH_
+__________________
+18 18
+0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 1 0 0
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0
+BE_AC_AB_AD_AG_AA_
+BF_AH_AC_CG_CG_AE_
+__________________
+CG_EG_BE_CC_AF_AC_
+DH_EH_CH_CF_FH_BD_
+__________________
+BE_AC_AF_AF_AD_AE_
+CH_BF_EH_EH_CG_BE_
+__________________
+AE_EH_BC_DG_AH_AE_
+BG_HH_CD_DG_EH_AE_
+__________________
+AE_AG_BF_BF_BE_CG_
+AH_EG_BH_FH_DF_FH_
+__________________
+AD_AC_CE_AE_CD_AF_
+AF_CE_DE_CH_CF_FG_
+__________________
+18 18
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 1 0 -1 0 1 0 0 0 0 0 0 0 0
+BG_AC_BE_CF_DE_AC_
+DH_CE_CE_DH_EH_AG_
+__________________
+BD_BG_BF_DF_CG_DF_
+BE_GH_FG_EF_DH_FH_
+__________________
+DG_CF_CE_DG_AB_AB_
+FH_FH_EE_GG_AE_AE_
+__________________
+BF_AB_EG_AC_CC_AA_
+CG_BB_FH_AH_CE_AB_
+__________________
+BF_AD_AD_AE_BG_BD_
+FH_CH_CE_DF_CH_CF_
+__________________
+AD_BG_AE_AB_AF_AH_
+BD_EG_AF_BH_DG_EH_
+__________________
+18 18
+-1 0 0 0 -1 0 -1 0 1 0 0 1 0 0 0 -1 -1 1
+1 0 0 1 1 -1 0 -1 0 -1 1 1 1 0 0 0 0 0
+AE_DG_AB_DF_BG_AD_
+CF_FH_BF_EF_BG_AD_
+__________________
+AH_AF_AF_AG_DG_DG_
+FH_AG_EF_CH_EH_GH_
+__________________
+BC_CE_AF_AD_DG_AC_
+CF_EF_BH_CH_FG_CC_
+__________________
+DF_AD_BH_AG_DF_DG_
+EG_CF_BH_GH_EF_EG_
+__________________
+AF_AE_CC_CG_DF_BC_
+BG_DE_CF_EH_EF_BD_
+__________________
+DH_DH_BE_DG_AE_AD_
+FH_GH_DE_GH_DG_BG_
+__________________
+18 18
+0 0 1 0 0 1 0 0 0 0 0 0 -1 0 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0
+AG_AF_CE_BF_BG_AE_
+DH_DG_DE_EG_DG_CH_
+__________________
+AF_BC_DF_AD_FG_CF_
+EH_BE_EH_DG_FH_CF_
+__________________
+CC_CD_BF_AF_AE_DG_
+CH_CH_FH_EF_DG_EH_
+__________________
+CF_DF_AE_BF_BH_FG_
+CH_EH_EF_DH_FH_FH_
+__________________
+BF_CF_CF_DF_AD_AF_
+CH_EG_DH_FF_BH_DH_
+__________________
+BC_BD_BG_AE_BG_DF_
+CH_CG_EG_BF_GG_FH_
+__________________
+18 18
+0 0 0 0 0 0 -1 -1 0 0 0 0 -1 0 0 0 0 0
+-1 -1 0 1 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0
+BG_CF_AF_AG_BD_BG_
+FH_CG_DF_EH_DG_DG_
+__________________
+AG_AE_EE_AH_DE_DH_
+FG_CF_EF_EH_EF_GH_
+__________________
+AC_AC_AF_BF_DG_DD_
+CE_AD_BG_DH_FG_DE_
+__________________
+DG_AG_BG_AD_FG_AG_
+GH_AH_DH_BH_FH_BH_
+__________________
+BG_AD_AH_CG_BD_EE_
+EH_CE_EH_FH_DG_EH_
+__________________
+BH_BE_AH_DG_CE_AG_
+EH_DH_BH_FG_EH_FH_
+__________________
+18 18
+1 1 -1 0 1 0 -1 0 0 -1 0 0 1 -1 1 0 -1 1
+0 -1 -1 0 -1 0 1 -1 0 -1 0 -1 -1 0 -1 0 0 0
+DH_FG_AH_BD_BE_AE_
+EH_FH_FH_BF_DH_CE_
+__________________
+DH_CF_AC_AD_CF_DD_
+GH_DG_AH_BE_DH_DG_
+__________________
+DF_CF_AF_BC_AF_BE_
+EH_FH_FG_BE_CH_DG_
+__________________
+DH_FH_AE_AG_AF_AF_
+FH_HH_AF_EH_AG_DG_
+__________________
+DG_AC_DG_BF_BC_BC_
+EH_CH_GH_FH_CE_CH_
+__________________
+BG_DF_BE_AE_BF_AH_
+EG_EH_CE_CH_CH_FH_
+__________________
+18 18
+0 -1 0 -1 0 0 1 -1 0 0 0 0 0 -1 0 -1 0 0
+-1 0 0 1 0 1 0 0 -1 1 0 0 0 0 1 -1 0 0
+BE_CD_CF_BC_CF_FG_
+CH_CF_EH_CE_DG_GH_
+__________________
+BG_AG_AC_BF_BH_AD_
+FH_DH_CH_DF_GH_CH_
+__________________
+EG_DE_BC_AG_CF_AG_
+FH_DG_BF_BG_DH_BH_
+__________________
+AF_DF_AE_CD_AC_AC_
+EG_EG_AG_CF_AF_BE_
+__________________
+BH_AG_BG_AD_AB_BE_
+GH_EG_CH_DH_BF_EE_
+__________________
+DG_BG_CF_AE_AE_BE_
+EH_EG_DH_EG_AF_BF_
+__________________
+18 18
+0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+AG_DH_AG_CD_BD_AE_
+CH_FH_GH_DG_DE_CE_
+__________________
+CC_EF_DG_CF_CE_DE_
+CF_EH_EH_CF_DF_EF_
+__________________
+AF_EF_CG_AE_DD_BD_
+DF_FG_CG_CG_DG_BE_
+__________________
+CH_AE_DG_AG_AE_AD_
+CH_DG_EH_DH_BF_AF_
+__________________
+AE_AD_EF_AB_BE_CC_
+CG_AE_EH_BE_DE_CF_
+__________________
+BH_CH_AH_BD_AC_BE_
+HH_GH_CH_BG_BG_BF_
+__________________
+18 18
+0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+AD_AF_BE_BC_BD_CG_
+BE_AF_DH_BF_CH_FH_
+__________________
+AB_AE_AE_AE_AF_AC_
+AG_CH_EH_BF_AG_AD_
+__________________
+CH_CG_DE_DG_AF_CE_
+EH_DH_EF_EG_DH_DF_
+__________________
+AD_CG_AE_AB_AE_DG_
+BD_FH_CG_BD_AF_GH_
+__________________
+AB_AF_AE_BC_BD_CG_
+BF_EG_CH_CH_CH_FH_
+__________________
+DF_DG_DE_BD_AE_BF_
+EG_GH_EF_DG_DF_CF_
+__________________
+18 18
+1 1 -1 -1 0 1 0 1 1 0 0 -1 0 0 -1 0 -1 0
+0 0 0 0 1 1 0 1 0 1 0 1 1 0 0 0 0 0
+AF_AB_AB_BG_EH_BF_
+EH_BE_AH_EG_GH_DG_
+__________________
+BF_BF_EE_AE_AC_AG_
+DG_EH_EF_BF_BD_GH_
+__________________
+CE_AE_AF_DF_AE_AH_
+DG_DH_CG_EH_DG_GH_
+__________________
+BG_AD_CG_BD_CE_EF_
+FH_BH_CG_CE_DE_EG_
+__________________
+DF_CC_DG_BE_CF_AE_
+EF_CG_EH_BF_CH_EF_
+__________________
+CD_AC_AB_BE_AD_EG_
+DG_BF_BH_CE_AE_GH_
+__________________
+18 18
+-1 0 0 -1 0 1 0 0 0 0 0 0 0 0 0 1 0 0
+0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+BH_FH_AB_DE_BE_AC_
+EH_FH_AH_DG_CG_BD_
+__________________
+DG_AC_AA_AD_CG_BF_
+GG_BG_AE_BE_FH_DF_
+__________________
+DG_AD_DE_AC_AE_AE_
+FH_DG_EE_BF_EF_DH_
+__________________
+DG_CE_EG_AC_EH_BE_
+DH_EF_FH_CE_GH_DF_
+__________________
+BE_CE_CG_DG_DF_AD_
+DF_DG_DH_GH_DF_BF_
+__________________
+AD_BE_AC_DE_CF_AG_
+CG_EE_CE_DF_EG_FG_
+__________________
+18 18
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0 -1 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0
+AB_CF_AE_AE_AC_BE_
+AD_DG_BF_EG_CE_EG_
+__________________
+BE_BF_AC_BG_BD_AD_
+CH_EG_BG_DH_DD_DG_
+__________________
+BF_AF_AC_AE_CE_AE_
+EG_AF_CE_CH_DG_CF_
+__________________
+CG_AF_BG_AA_AC_AD_
+DG_BH_CH_AF_BD_BF_
+__________________
+CE_BC_EG_DG_AG_CH_
+DH_BE_FH_GH_AH_DH_
+__________________
+AC_CF_BG_AE_AF_EF_
+AH_DG_CH_DH_EH_FF_
+__________________
+18 18
+0 -1 0 0 1 0 0 -1 0 0 0 1 -1 0 0 -1 0 0
+-1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 -1
+AG_AE_AD_CG_AB_BE_
+BG_EG_CH_CG_BE_CF_
+__________________
+CG_AH_DD_AD_AE_AB_
+CH_FH_DF_AH_CG_AC_
+__________________
+EF_AH_AD_CG_AE_CF_
+FG_EH_AG_FH_BE_EH_
+__________________
+CE_BD_AH_BF_AH_CF_
+CG_CE_EH_CF_FH_DF_
+__________________
+CE_BE_AG_AA_AE_BF_
+CF_EF_DH_AD_AG_BG_
+__________________
+BE_BC_EH_BG_BC_AE_
+EF_BF_GH_DH_BH_DG_
+__________________
+18 18
+0 0 0 -1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 -1 0 0 0 0 0 0 -1 0 0 0 0
+BC_AG_CD_BD_AB_BF_
+CF_DG_DF_BE_AB_EG_
+__________________
+DG_AD_AB_DE_EF_BF_
+EH_BG_AC_DE_EF_CH_
+__________________
+AC_DF_AD_AG_AG_AF_
+AG_EG_BH_EH_EG_DG_
+__________________
+BG_AE_AH_DE_AB_AC_
+FH_DH_GH_EG_AH_CH_
+__________________
+DF_BC_AE_AE_AC_BF_
+EH_BE_BF_AF_AE_EG_
+__________________
+DE_AD_AE_BD_CE_AG_
+DH_CH_BG_DF_EG_GH_
+__________________
+18 18
+-1 -1 1 0 0 0 -1 0 0 0 0 0 0 0 1 -1 1 0
+0 1 1 0 1 0 0 -1 1 -1 0 0 -1 0 -1 1 -1 -1
+AE_CE_AD_BE_AG_DG_
+AG_EH_BD_CH_CH_EH_
+__________________
+CF_AF_AF_BE_AC_AG_
+DH_DF_CF_CG_BG_FG_
+__________________
+BF_GH_CH_EG_CF_BF_
+CG_HH_DH_FH_EF_CH_
+__________________
+AF_CG_BB_BF_BD_BE_
+AF_CG_BD_CG_DG_CF_
+__________________
+CG_AC_BC_AD_CH_AF_
+FG_AC_BC_CH_FH_DH_
+__________________
+AC_DE_AC_BG_BD_BF_
+AG_DF_CF_CG_BG_BG_
+__________________
+18 18
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+AD_BD_AE_DG_BF_BD_
+DH_CE_DH_EH_DH_CH_
+__________________
+DG_AC_BH_DG_BD_CE_
+EH_AE_GH_FG_CF_DE_
+__________________
+AE_BG_AF_BE_BG_AD_
+BE_GG_CH_BE_GH_BG_
+__________________
+FH_BH_AD_CE_BF_BE_
+FH_DH_CD_DF_DG_BE_
+__________________
+AF_BE_BE_EF_BF_AD_
+CG_CE_DF_EH_EF_AE_
+__________________
+CD_AF_EF_AB_BD_BF_
+DH_BH_FG_AH_CE_DH_
+__________________
+18 18
+0 0 0 0 1 0 0 0 -1 0 0 1 0 0 0 0 0 0
+0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 0 0
+AF_CF_EF_BH_BF_BF_
+BH_CG_EG_GH_CG_DH_
+__________________
+BF_BE_BC_BF_BE_CE_
+DG_EF_BG_DF_EF_EH_
+__________________
+CG_AC_AA_DF_BE_DE_
+DH_BD_AE_EH_CH_DH_
+__________________
+BE_AA_AE_AE_AG_BH_
+EF_AH_CH_CH_DH_DH_
+__________________
+AD_AG_FF_CE_AB_AF_
+AF_BG_FH_EH_AF_EH_
+__________________
+CH_AG_EG_BF_AF_EF_
+CH_AH_EG_DF_BH_FG_
+__________________
+18 18
+0 0 0 0 0 1 0 0 -1 0 0 0 0 0 0 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+BG_AE_EH_EF_AD_AE_
+FG_EF_FH_FG_DH_CG_
+__________________
+EH_CC_AH_BC_AF_CF_
+FH_CE_HH_CE_CH_EH_
+__________________
+AF_BC_CG_AH_BE_DG_
+DG_CH_EH_DH_CF_FH_
+__________________
+BF_BD_BF_CD_AG_AG_
+FH_BG_CG_CG_FH_FG_
+__________________
+AE_DF_CD_BC_CE_CE_
+AF_EG_CD_CG_DG_CH_
+__________________
+AD_AC_AA_AD_AH_DG_
+CH_BH_AD_CE_CH_EG_
+__________________
+18 18
+0 0 -1 -1 0 -1 -1 1 0 1 0 0 1 0 0 1 0 0
+-1 0 0 1 0 1 0 -1 0 0 0 -1 -1 0 1 0 -1 -1
+CG_CG_FG_DG_AD_AF_
+CH_EG_GH_FH_CF_AH_
+__________________
+AE_AC_CE_AE_AE_AD_
+BG_BD_DG_CF_BG_BG_
+__________________
+BG_AG_AA_AE_AF_BF_
+BH_FH_AD_DF_CF_DG_
+__________________
+BD_BD_AB_AE_AD_BD_
+DG_BE_BC_CE_BD_DF_
+__________________
+DE_CD_BD_CG_CE_AF_
+DH_DF_DH_EH_EF_EF_
+__________________
+BD_AE_CF_AE_BD_AB_
+CE_BE_EH_EG_CH_AG_
+__________________
+18 18
+0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0
+AE_AB_CD_AF_AF_DE_
+EH_AG_CF_DH_EG_DH_
+__________________
+CF_AF_AH_BG_DE_BD_
+CH_AF_BH_GG_EH_BE_
+__________________
+BG_CF_BF_AD_AF_BF_
+FH_DF_DG_BF_DF_EH_
+__________________
+CF_BD_AF_BE_DF_AB_
+DH_CH_BG_DF_FG_AC_
+__________________
+AD_AE_EG_BF_EG_BF_
+CH_CF_EH_BG_FH_EG_
+__________________
+BC_AC_FG_BG_AC_EH_
+CC_AF_GH_BG_CD_FH_
+__________________
+18 18
+-1 -1 -1 1 -1 0 1 0 0 0 1 1 -1 -1 -1 -1 0 1
+0 1 1 1 -1 1 -1 0 0 1 0 0 -1 0 -1 1 0 -1
+DE_AF_FG_BD_CE_DH_
+DH_BH_FH_CH_EH_HH_
+__________________
+CF_AF_AE_EH_BE_AF_
+EG_FH_CE_FH_CE_CH_
+__________________
+AB_EE_AE_CD_AD_BE_
+AH_EE_BG_DE_BG_DG_
+__________________
+AG_AF_BG_BE_AD_EF_
+EH_DF_EH_CF_DF_FH_
+__________________
+BH_BF_BE_CE_CF_CC_
+DH_EF_CH_DG_DG_CG_
+__________________
+AE_AC_BD_AE_AC_AD_
+BH_CE_CE_CH_AC_CG_
+__________________
+18 18
+-1 -1 1 -1 0 -1 0 0 -1 -1 1 0 -1 1 -1 1 -1 1
+1 0 -1 -1 -1 -1 -1 0 0 0 1 -1 -1 0 1 -1 0 0
+BH_AD_BG_CG_AF_AG_
+EH_CG_DH_EH_EG_CG_
+__________________
+AF_BF_AC_AE_CE_AD_
+CH_EH_BC_DG_EG_DH_
+__________________
+CG_BH_BC_BE_AF_BE_
+EG_HH_CF_EH_FG_CH_
+__________________
+BG_DH_BE_BE_CF_BE_
+DH_FH_DH_DF_DH_CE_
+__________________
+BF_AE_AE_AF_DG_AD_
+CH_BG_DE_BG_FH_BF_
+__________________
+AG_AG_BF_AF_BC_BF_
+FH_BG_BH_DH_CD_DG_
+__________________
+18 18
+1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0
+0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0
+BG_AF_AD_BF_BF_AC_
+BG_DH_DE_DG_DF_CE_
+__________________
+DF_BG_DG_BG_AF_CG_
+EH_DH_EH_DH_EH_FG_
+__________________
+CF_BD_EH_CE_BF_BC_
+EG_CH_GH_DE_FH_CD_
+__________________
+EH_BF_AB_BC_AE_BG_
+EH_DF_AD_BE_EH_CG_
+__________________
+AE_AF_BE_AE_CG_FG_
+BG_DH_DF_BH_EH_GH_
+__________________
+BF_AF_AC_FH_CD_CG_
+FF_CH_BD_GH_CH_FG_
+__________________
+18 18
+0 0 0 0 1 0 0 -1 0 0 0 0 0 0 0 1 -1 0
+0 0 0 0 0 -1 1 1 0 0 0 1 0 0 0 0 0 0
+AE_AC_AC_BG_AG_AC_
+AF_BG_BH_DH_FG_BH_
+__________________
+BD_BG_AD_BD_DF_AE_
+CH_EH_DH_BE_EG_CF_
+__________________
+AE_DF_EG_AC_CG_AC_
+AG_EH_FG_AG_DH_AH_
+__________________
+AD_AF_AG_BC_BH_DG_
+BF_DH_FH_BD_FH_DG_
+__________________
+BE_DG_CE_AF_AD_BE_
+DE_GH_DG_BG_AF_DE_
+__________________
+AC_BE_AE_BE_BE_EF_
+AH_BG_DH_BH_BF_FH_
+__________________
+18 18
+0 0 -1 1 -1 -1 0 0 0 1 1 1 1 0 0 1 0 0
+0 1 0 0 1 -1 0 1 1 -1 1 0 -1 1 -1 0 0 -1
+BE_EG_AC_AD_BE_CH_
+CF_FG_BD_CH_DE_DH_
+__________________
+AD_CD_EH_CE_AE_AC_
+CG_CG_GH_CH_AE_BF_
+__________________
+AA_BD_DF_BE_BF_AC_
+AD_CH_EG_BF_EF_BG_
+__________________
+BD_EE_AF_BF_AF_CG_
+CH_EH_CG_DH_CH_CH_
+__________________
+AE_AE_AB_BE_AD_AE_
+DF_DE_BF_EE_CF_AF_
+__________________
+AG_BG_BG_AG_AF_AB_
+CG_DH_FH_AG_CG_BG_
+__________________
+18 18
+0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 1
+0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0
+AB_AD_CG_BG_BC_BE_
+AH_CD_FH_CH_BG_DH_
+__________________
+DF_AC_EH_AF_AG_BD_
+FG_BG_EH_CF_GH_BF_
+__________________
+BE_EG_DG_AF_BF_AB_
+DG_GG_FH_CG_EG_BH_
+__________________
+AE_BF_BE_CE_EH_AD_
+EF_BH_EF_EG_HH_CE_
+__________________
+EH_BH_BE_AE_BE_AD_
+FH_HH_DF_BG_EF_CF_
+__________________
+DG_BE_EF_FF_BG_AB_
+DH_DH_EG_FG_FG_AH_
+__________________
+18 18
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 -1 0 0 0 0 0 1 1 0 0
+BF_AD_BE_CD_DF_AB_
+EG_DF_BG_CG_EG_BG_
+__________________
+AF_FF_AF_CH_CH_EH_
+DH_FG_CG_CH_FH_EH_
+__________________
+DD_AA_CF_AF_AE_BC_
+DF_AD_DH_CH_BH_CD_
+__________________
+CE_AA_BE_CD_AC_BF_
+DG_AG_BF_DE_BD_CH_
+__________________
+AG_BD_BF_CH_AG_AB_
+CH_BG_CH_GH_FH_AC_
+__________________
+AE_AF_BD_AG_AE_AE_
+EF_CF_CG_CH_EH_BG_
+__________________
+18 18
+-1 1 -1 0 1 0 -1 0 1 0 0 -1 -1 1 0 1 0 -1
+0 -1 0 0 -1 1 0 0 0 0 0 0 0 -1 0 0 0 -1
+AG_BE_BD_DG_CE_CG_
+EG_CF_DG_EG_EH_DH_
+__________________
+BF_BE_DF_AC_CE_CF_
+DH_DF_EF_CD_DE_DG_
+__________________
+DH_AD_BB_BD_AD_AH_
+GH_BE_BG_BG_CG_DH_
+__________________
+AF_AB_BD_CF_CG_BG_
+EH_AF_BE_EG_GH_EH_
+__________________
+BG_AF_AG_BH_FG_AC_
+EH_CG_CH_DH_FG_AD_
+__________________
+CF_CF_AF_AC_AG_BF_
+CH_CG_CH_CC_FH_CH_
+__________________
+18 18
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0 1 0 0 0 -1 0 0 0 0 0 0 0 1 0 0 0 1
+BF_CD_CE_BF_AE_EE_
+CH_DE_DG_BH_AH_EF_
+__________________
+AH_AE_CG_AE_BF_BE_
+EH_EG_GH_BH_FG_EH_
+__________________
+AB_AB_CG_AB_CH_DF_
+BF_AE_GH_BG_GH_FF_
+__________________
+AB_AE_BD_AA_AE_AB_
+AE_BF_CG_AH_BH_BH_
+__________________
+BG_AC_AE_CG_AF_AE_
+DH_AG_DF_CH_BH_EH_
+__________________
+AE_AG_CE_AE_BE_AC_
+DF_EH_CH_AH_CH_CE_
+__________________
+18 18
+0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 -1
+FF_BF_EH_AF_AF_AD_
+FH_CG_FH_CF_FG_AG_
+__________________
+CG_AF_AG_AE_AC_BD_
+CG_AH_GH_BF_CH_BF_
+__________________
+AF_DG_DG_CE_AF_AC_
+EH_FH_EG_CH_EG_CE_
+__________________
+AF_BD_AC_FG_CE_AG_
+BH_BF_AF_FG_CG_BH_
+__________________
+CD_CG_AG_CE_AG_CF_
+CF_EH_EH_EF_DG_FG_
+__________________
+CF_AF_BF_CE_BC_AF_
+DH_EH_CG_DH_BH_CH_
+__________________

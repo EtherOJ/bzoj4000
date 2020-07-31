@@ -1,0 +1,769 @@
+64
+9 9
+0 0 0 0 1 1 1 0 0
+0 0 0 0 -1 0 0 0 -1
+BD_AD_BC_
+CD_DD_CD_
+_________
+AD_BD_BC_
+BD_CD_BC_
+_________
+AD_AC_AC_
+DD_AD_AC_
+_________
+9 9
+0 0 -1 0 -1 0 0 0 -1
+1 0 0 -1 0 -1 0 0 0
+BC_BC_AC_
+CD_CD_BD_
+_________
+CD_BC_BC_
+DD_BC_CD_
+_________
+AD_AC_BB_
+DD_CD_BD_
+_________
+9 9
+0 0 0 1 0 0 0 0 0
+0 1 0 -1 0 0 0 0 0
+AC_AD_AC_
+BD_CD_BD_
+_________
+BC_AB_AB_
+CD_AB_BD_
+_________
+BB_AB_AD_
+BD_BD_CD_
+_________
+9 9
+-1 1 0 0 1 0 0 0 0
+0 0 0 0 1 0 1 0 0
+AD_BC_AB_
+CD_CD_BD_
+_________
+BB_BC_AB_
+BC_CD_BD_
+_________
+AC_AB_AB_
+CD_AC_AC_
+_________
+9 9
+0 0 0 0 0 0 0 0 -1
+0 0 0 1 0 0 0 0 0
+AB_AC_AB_
+AC_BD_AB_
+_________
+AC_AA_AC_
+CD_AC_AD_
+_________
+BD_AD_AC_
+BD_AD_AD_
+_________
+9 9
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 -1 -1 0
+AA_BC_AD_
+AB_CD_AD_
+_________
+BD_BD_AB_
+CD_BD_BC_
+_________
+AC_AD_AC_
+AD_BD_CC_
+_________
+9 9
+0 0 0 1 1 0 0 0 0
+0 0 0 0 0 0 0 0 1
+CD_AC_AD_
+CD_BC_AD_
+_________
+AC_AD_AC_
+CD_BD_BC_
+_________
+CD_DD_BB_
+DD_DD_BB_
+_________
+9 9
+0 0 0 0 -1 0 0 1 0
+0 0 0 0 0 0 0 0 0
+BB_AC_BC_
+BD_AD_CD_
+_________
+AB_AC_AD_
+BC_AD_DD_
+_________
+AC_AB_AD_
+AD_AB_BD_
+_________
+9 9
+0 0 0 0 0 1 0 0 1
+0 0 0 0 0 0 -1 0 0
+BB_AB_AB_
+BD_AD_AD_
+_________
+AC_AC_AB_
+BD_CC_BC_
+_________
+AB_AB_AC_
+AB_BD_BC_
+_________
+9 9
+0 0 0 1 0 0 1 -1 0
+0 -1 0 0 0 0 0 1 0
+BC_AB_AC_
+BD_AC_BC_
+_________
+AC_AB_AD_
+BC_AD_AD_
+_________
+AD_AC_AB_
+BD_AC_BD_
+_________
+9 9
+-1 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 1 0
+AB_BD_AC_
+BB_CD_BD_
+_________
+BB_AB_AC_
+BB_AB_CD_
+_________
+AC_AB_AC_
+CC_BC_CD_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 1 1 1 -1 0 0 0 0
+BB_AB_AD_
+BD_BD_AD_
+_________
+AC_BC_AD_
+AD_BD_BD_
+_________
+BC_AD_AC_
+CD_CD_BC_
+_________
+9 9
+0 1 0 0 0 0 0 0 0
+0 0 0 0 -1 1 0 0 0
+AB_BB_AC_
+AB_BD_AD_
+_________
+AC_AB_AC_
+AD_BD_AD_
+_________
+AC_AC_AC_
+AD_BC_BD_
+_________
+9 9
+0 0 0 0 0 0 0 1 0
+1 0 0 1 -1 1 0 1 1
+AC_AC_AD_
+AD_AD_BD_
+_________
+AB_AC_AB_
+AD_BC_BD_
+_________
+AD_AC_AD_
+CD_BD_CD_
+_________
+9 9
+0 0 0 0 -1 0 1 0 0
+0 0 0 0 0 0 0 0 0
+AB_AD_AB_
+AB_CD_BC_
+_________
+BD_AC_AA_
+BD_BD_AD_
+_________
+AD_AA_AB_
+BD_AC_BD_
+_________
+9 9
+0 0 0 0 0 0 0 0 -1
+0 0 0 0 0 0 0 0 0
+AB_BC_AB_
+BD_CD_AD_
+_________
+AB_BD_AC_
+BC_BD_BD_
+_________
+AD_AB_BD_
+AD_BC_CD_
+_________
+9 9
+0 -1 0 0 0 0 1 0 0
+0 0 0 0 -1 0 0 1 0
+AB_BC_AC_
+BD_CD_BD_
+_________
+AC_BC_BD_
+BC_CC_CD_
+_________
+BD_CD_AD_
+BD_CD_CD_
+_________
+9 9
+0 0 1 0 0 -1 0 1 0
+0 -1 0 0 -1 0 0 0 -1
+BB_AA_AC_
+BB_AB_CC_
+_________
+AC_BC_BC_
+BD_BD_BD_
+_________
+AD_AB_AB_
+BD_AD_BD_
+_________
+9 9
+1 1 0 1 -1 0 0 -1 -1
+0 1 0 0 0 1 1 1 0
+AB_AB_BB_
+AC_AC_BC_
+_________
+AA_AD_BC_
+AC_BD_CD_
+_________
+BB_AB_CD_
+BD_AD_DD_
+_________
+9 9
+0 0 0 0 0 0 1 0 0
+0 1 0 -1 0 0 0 0 0
+AB_AB_BC_
+AD_AD_BD_
+_________
+AC_AB_AB_
+CD_AD_AB_
+_________
+CD_AC_AB_
+CD_CC_AC_
+_________
+9 9
+0 0 1 -1 0 0 -1 0 0
+0 0 0 -1 -1 -1 0 0 -1
+AD_CD_AB_
+BD_CD_BD_
+_________
+AB_AD_AB_
+AD_BD_BD_
+_________
+AC_BC_BC_
+CD_BC_BD_
+_________
+9 9
+0 0 0 0 0 0 -1 1 0
+0 1 0 0 1 0 0 0 -1
+AD_CC_BB_
+CD_CD_BC_
+_________
+AA_BD_AD_
+AC_DD_CD_
+_________
+BD_AB_AC_
+CD_BD_BD_
+_________
+9 9
+0 0 1 0 0 0 0 1 1
+1 0 0 0 0 0 1 1 0
+AC_CD_AC_
+BC_DD_BC_
+_________
+CC_AD_AD_
+CC_DD_CD_
+_________
+AC_BD_AC_
+AD_CD_AC_
+_________
+9 9
+0 0 1 0 0 0 0 0 0
+-1 0 0 0 1 0 0 0 0
+AB_AC_AC_
+BC_CD_BC_
+_________
+AC_BD_BD_
+BC_CD_BD_
+_________
+BC_BB_AD_
+BC_BD_AD_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0
+AB_AB_AB_
+BC_BC_BC_
+_________
+AB_BC_BD_
+AD_BC_CD_
+_________
+AC_AD_AC_
+BD_CD_BC_
+_________
+9 9
+0 0 0 1 1 0 0 -1 0
+1 0 0 0 0 0 0 0 0
+AC_BC_AD_
+BD_BD_AD_
+_________
+BD_BC_BC_
+DD_BD_BC_
+_________
+BD_BD_AD_
+BD_CD_BD_
+_________
+9 9
+0 -1 0 0 0 1 0 -1 0
+-1 -1 -1 0 0 0 1 -1 -1
+AD_BC_AB_
+CD_CD_AD_
+_________
+AC_AD_AD_
+AD_BD_BD_
+_________
+AB_AD_AC_
+BC_AD_CD_
+_________
+9 9
+0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0
+BC_BD_AB_
+CD_BD_BD_
+_________
+AB_BB_AC_
+AB_BB_CD_
+_________
+BC_BC_BB_
+BD_BD_BD_
+_________
+9 9
+0 0 0 -1 0 0 0 0 1
+0 0 0 0 -1 0 0 0 0
+AD_AB_BD_
+DD_BC_BD_
+_________
+AB_AA_BC_
+BC_AC_BC_
+_________
+AD_AB_AB_
+CD_AB_AC_
+_________
+9 9
+0 0 -1 0 0 -1 0 0 0
+0 0 -1 0 0 0 0 0 -1
+AC_AC_BD_
+AC_BD_DD_
+_________
+AC_AA_AB_
+BC_AC_BD_
+_________
+AC_AD_CD_
+CD_CD_DD_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+1 0 0 0 -1 0 0 0 0
+AC_AB_BB_
+CD_AB_BC_
+_________
+CD_AC_AC_
+CD_BC_CD_
+_________
+AC_AD_AB_
+BC_DD_BC_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 0 1 1 0 1 0 0 0
+AC_AB_AA_
+BC_AD_AC_
+_________
+AD_AC_BC_
+CD_AD_CD_
+_________
+BC_BB_AC_
+BD_BC_BC_
+_________
+9 9
+0 0 0 0 0 -1 0 0 0
+1 -1 -1 0 1 -1 0 0 0
+AB_AB_AA_
+BB_AD_AB_
+_________
+AB_AC_BD_
+BC_AD_BD_
+_________
+AB_AB_AC_
+AD_AB_BD_
+_________
+9 9
+0 0 1 -1 0 0 0 -1 -1
+0 0 0 0 0 0 0 0 1
+AC_CD_AB_
+AD_DD_BD_
+_________
+BD_AD_AD_
+CD_AD_AD_
+_________
+AB_AB_BC_
+AD_BB_CD_
+_________
+9 9
+-1 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+AC_AC_AB_
+CD_BD_BB_
+_________
+AC_AC_CD_
+AC_BC_CD_
+_________
+AC_BC_AB_
+BD_BD_BC_
+_________
+9 9
+0 0 0 0 -1 1 0 0 0
+0 0 0 0 0 0 0 0 0
+CC_AB_AC_
+CD_AD_BC_
+_________
+AB_BD_BD_
+BD_BD_CD_
+_________
+AD_BC_AB_
+CD_CD_BC_
+_________
+9 9
+0 0 0 1 0 0 0 1 -1
+1 -1 0 0 0 0 -1 0 0
+BD_BD_AD_
+BD_CD_BD_
+_________
+AB_AC_AB_
+AC_BC_AC_
+_________
+AB_BD_AC_
+AC_CD_AC_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+AC_AB_BC_
+AD_BD_CC_
+_________
+BC_AB_AB_
+CC_BC_AB_
+_________
+CD_AC_AD_
+CD_AC_CD_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 1 0
+AC_AB_AD_
+BD_AC_CD_
+_________
+AB_AD_AC_
+AC_CD_BD_
+_________
+AC_AC_AB_
+CC_AC_AC_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 -1 0 0 0 0 0 0 1
+AA_AB_AB_
+AC_AC_BC_
+_________
+BD_BD_AB_
+CD_BD_BD_
+_________
+AC_AD_AC_
+AC_CD_CD_
+_________
+9 9
+0 -1 0 0 -1 1 0 0 0
+0 0 -1 1 0 0 0 0 0
+AB_AC_BD_
+AD_BC_CD_
+_________
+AC_AC_AC_
+AC_AC_BD_
+_________
+BC_AD_AC_
+BC_DD_BD_
+_________
+9 9
+0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0
+BD_AD_AC_
+DD_CD_BC_
+_________
+AB_AB_AC_
+AC_AB_CD_
+_________
+AA_AB_AB_
+AA_AC_BC_
+_________
+9 9
+1 0 0 0 -1 0 1 0 0
+0 0 0 0 0 0 0 0 0
+AC_AD_AC_
+BD_CD_CD_
+_________
+BD_AB_AB_
+CD_AC_BD_
+_________
+AB_AC_AC_
+BC_CD_BD_
+_________
+9 9
+0 0 0 0 0 0 0 0 -1
+0 0 0 0 0 0 1 0 0
+AC_AC_AC_
+BC_BC_BD_
+_________
+BC_AC_AC_
+BC_AC_AD_
+_________
+AD_AC_AD_
+BD_AD_BD_
+_________
+9 9
+0 1 0 -1 0 0 0 -1 0
+-1 0 0 1 0 0 1 0 0
+AC_BD_BD_
+AC_CD_CD_
+_________
+AB_BD_BC_
+AD_DD_CD_
+_________
+AD_AC_AB_
+CD_AD_AB_
+_________
+9 9
+-1 -1 1 -1 0 0 0 0 -1
+0 -1 0 1 0 0 0 0 0
+BC_CD_AB_
+BC_CD_AB_
+_________
+AC_AD_BC_
+CC_CD_CD_
+_________
+AC_AC_BC_
+AC_BC_BC_
+_________
+9 9
+0 0 0 0 1 0 1 0 0
+0 0 0 0 0 0 0 0 -1
+AB_AA_BC_
+BD_AB_CD_
+_________
+AD_AC_AD_
+BD_CD_CD_
+_________
+AD_AD_AC_
+CD_AD_BC_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+CD_AD_BC_
+CD_DD_CD_
+_________
+AC_AC_AC_
+AD_CD_BD_
+_________
+CD_BC_AB_
+DD_BC_AB_
+_________
+9 9
+1 -1 0 0 0 0 0 0 0
+0 0 -1 0 0 0 0 0 0
+AB_AD_AB_
+AD_BD_BC_
+_________
+AC_BC_BC_
+CD_CD_CD_
+_________
+AC_AC_AB_
+AD_CD_BB_
+_________
+9 9
+0 0 0 0 0 0 0 1 0
+0 0 0 -1 0 0 -1 1 0
+AC_AD_BB_
+BC_CD_BD_
+_________
+AD_BD_AB_
+AD_BD_BD_
+_________
+AC_AD_BD_
+CD_BD_CD_
+_________
+9 9
+0 0 0 0 0 0 1 0 1
+0 -1 0 0 0 0 0 0 0
+CD_BD_BC_
+DD_DD_BD_
+_________
+BD_AB_BC_
+CD_BD_CD_
+_________
+CD_AB_BC_
+DD_AC_CD_
+_________
+9 9
+0 0 0 -1 0 -1 -1 0 1
+0 -1 0 0 0 0 0 0 0
+BD_AA_AB_
+BD_AC_AD_
+_________
+BD_AA_AB_
+CD_AB_BD_
+_________
+AA_AB_BB_
+AD_BD_BD_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+AC_AC_AA_
+BD_CD_AD_
+_________
+BC_AC_AC_
+BD_BD_BD_
+_________
+AD_BC_BD_
+BD_CD_CD_
+_________
+9 9
+0 -1 1 0 1 1 0 1 -1
+-1 -1 -1 1 0 1 1 1 -1
+BC_AB_AB_
+BD_AB_BC_
+_________
+AC_AB_BC_
+AC_AC_CD_
+_________
+AC_AC_AD_
+CD_BD_BD_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 1 0 0
+BB_BC_AB_
+BD_CD_AC_
+_________
+AB_AB_AC_
+AB_BD_BD_
+_________
+AC_AD_AB_
+AD_CD_AB_
+_________
+9 9
+0 0 0 -1 1 0 -1 -1 0
+1 1 0 1 1 0 -1 -1 1
+AC_BC_BC_
+BD_CD_BD_
+_________
+AC_AD_CD_
+AC_CD_CD_
+_________
+BD_AA_AB_
+CD_AD_BC_
+_________
+9 9
+0 0 0 -1 -1 0 1 0 0
+0 0 0 0 0 1 1 1 0
+AD_AD_AD_
+AD_CD_DD_
+_________
+AC_AD_AA_
+CC_BD_AA_
+_________
+AD_CC_AD_
+CD_CD_CD_
+_________
+9 9
+0 1 0 -1 0 0 0 1 0
+0 1 1 0 0 0 0 0 0
+AB_BD_AC_
+AB_CD_BD_
+_________
+AB_AB_AC_
+BD_AD_AC_
+_________
+BC_AC_AD_
+CD_BD_BD_
+_________
+9 9
+1 0 0 0 0 0 0 0 -1
+0 0 0 0 0 0 0 0 0
+BD_AC_AB_
+CD_AC_AD_
+_________
+BC_BD_AB_
+BD_BD_BD_
+_________
+AB_AA_BD_
+BB_AD_CD_
+_________
+9 9
+0 0 0 0 0 0 0 0 -1
+0 0 1 1 0 0 0 0 -1
+AA_AD_AA_
+AB_BD_AD_
+_________
+AB_BC_BC_
+BD_CC_BD_
+_________
+AB_AC_AC_
+BD_CC_AC_
+_________
+9 9
+1 0 -1 0 0 0 0 -1 0
+0 0 0 0 0 0 -1 0 0
+AB_BD_AD_
+BC_DD_CD_
+_________
+AB_BC_CD_
+AD_BD_CD_
+_________
+AC_AA_AC_
+CD_AB_BD_
+_________
+9 9
+0 0 0 0 0 0 0 0 0
+0 0 0 0 1 1 -1 0 0
+BD_AB_AB_
+BD_AD_AD_
+_________
+BB_AB_CD_
+BD_BC_CD_
+_________
+BC_BC_AB_
+BD_BD_AC_
+_________
+9 9
+0 0 0 -1 0 0 0 0 -1
+0 0 0 0 0 0 0 0 0
+AC_AB_AB_
+AC_AB_AD_
+_________
+AD_AA_AD_
+BD_AD_CD_
+_________
+AB_AB_CC_
+AD_AD_CD_
+_________
+9 9
+1 0 0 0 0 0 0 0 0
+-1 0 0 0 0 0 0 0 0
+AC_AD_AA_
+AC_DD_AD_
+_________
+AB_AD_AB_
+BB_BD_AC_
+_________
+BD_AC_AB_
+CD_BD_AB_
+_________
