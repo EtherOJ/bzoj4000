@@ -1,0 +1,5 @@
+name: "[IOI2014]wall砖墙"
+source: bzoj (OI-Archive)
+time_limit: 60000
+timing_mode: total
+space_limit: 256
