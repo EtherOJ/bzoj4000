@@ -1,0 +1,5 @@
+name: "[Nwerc2015]Guessing Camels赌骆驼"
+source: bzoj (OI-Archive)
+time_limit: 30000
+timing_mode: total
+space_limit: 512
