@@ -1,0 +1,5 @@
+name: "[HEOI2015]最短不公共子串"
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 256
