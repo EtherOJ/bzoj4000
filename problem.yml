@@ -1,0 +1,5 @@
+name: "[Wf2016]Clock Breaking"
+source: bzoj (OI-Archive)
+time_limit: 2000
+timing_mode: total
+space_limit: 128
