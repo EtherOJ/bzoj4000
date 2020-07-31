@@ -1,0 +1,5 @@
+name: 文艺计算姬
+source: bzoj (OI-Archive)
+time_limit: 1000
+timing_mode: total
+space_limit: 128
