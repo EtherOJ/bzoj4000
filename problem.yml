@@ -1,0 +1,5 @@
+name: "[POI2015]Kurs szybkiego czytania"
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 128
