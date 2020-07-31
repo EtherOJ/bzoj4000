@@ -1,0 +1,5 @@
+name: "[Ctsc2017]最长上升子序列 "
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 512
