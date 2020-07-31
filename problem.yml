@@ -1,0 +1,5 @@
+name: 欧拉函数求和
+source: bzoj (OI-Archive)
+time_limit: 15000
+timing_mode: total
+space_limit: 256
