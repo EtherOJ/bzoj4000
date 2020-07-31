@@ -1,0 +1,5 @@
+name: "[Ctsc2015]app"
+source: bzoj (OI-Archive)
+time_limit: 200000
+timing_mode: total
+space_limit: 233
