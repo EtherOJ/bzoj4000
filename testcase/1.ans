@@ -1,0 +1,6 @@
+optimal travel from S0x0 to S19x19: 19 lines, 60 minutes
+optimal travel from S0x0 to S39x39: 10 lines, 304 minutes
+optimal travel from S0x0 to S59x59: 2 lines, 4609 minutes
+optimal travel from S0x0 to S119x119: 11 lines, 2356 minutes
+optimal travel from S0x0 to S239x239: 120 lines, 1218 minutes
+optimal travel from S0x0 to S329x299: 314 lines, 1082 minutes
