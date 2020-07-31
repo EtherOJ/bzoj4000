@@ -1,0 +1,5 @@
+name: "[CERC2016]Invisible Integers"
+source: bzoj (OI-Archive)
+time_limit: 80000
+timing_mode: total
+space_limit: 512
