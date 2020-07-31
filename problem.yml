@@ -1,0 +1,5 @@
+name: "[Jsoi2016]扭动的回文串"
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 512
