@@ -1,0 +1,5 @@
+name: GTY的OJ
+source: bzoj (OI-Archive)
+time_limit: 40000
+timing_mode: total
+space_limit: 512
