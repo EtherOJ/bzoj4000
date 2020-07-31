@@ -1,0 +1,5 @@
+name: "[Jsoi2015]子集选取"
+source: bzoj (OI-Archive)
+time_limit: 1000
+timing_mode: total
+space_limit: 512
