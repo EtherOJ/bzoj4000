@@ -1,0 +1,5 @@
+name: "[Scoi2015]小凸解密码"
+source: bzoj (OI-Archive)
+time_limit: 20000
+timing_mode: total
+space_limit: 128
