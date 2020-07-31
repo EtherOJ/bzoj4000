@@ -1,0 +1,22 @@
+5
+1
+2
+88
+42
+99
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int this_is_a_solution_to_the_Life_the_Universe_and_Everything;
+
+int main(){
+  int the_answer;
+  while (1)
+    {
+      cin >> the_answer;
+      if (the_answer == 42)
+        return 0;
+      cout << the_answer << endl;
+    }
+}

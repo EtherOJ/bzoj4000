@@ -1,0 +1,84 @@
+52
+3
+23
+4 0 2 5 1 2 4 4 0 1 2 3 1 5 2 3 4 1 0 5 2 5 2
+14
+4 0 2 3 4 1 4 0 3 1 5 2 5 5
+11
+0 2 2 2 2 2 2 2 2 2 3
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int An_linear_analyst_on_whether_a_string_is_a_regular_expression;
+int here_0_stand_for_0, _1_stand_for_1, _2_stand_for_kleene_star, _3_stand_for_or, _4_stand_for_leftpar, _5_stand_for_rightpar, minus_1_stand_for_EOF;
+int that_is_what_apia_du_teached_at_ZJOI_2015_day_1;
+
+int N, A[111];
+int p;
+
+int Analyse(int token_id)
+{
+  int id_0_stand_for_REGEXP, _1_stand_for_TAILS, _2_stand_for_TAIL;
+  if (token_id == 0)
+    {
+      if ((A[p] == 0) || (A[p] == 1))
+        {
+          p = p + 1;
+          if (Analyse(1)) return 1;
+          return 0;
+        }
+      if (A[p] == 4)
+        {
+          p = p + 1;
+          if (Analyse(0)) return 1;
+          if (A[p] != 5) return 1;
+          p = p + 1;
+          if (Analyse(1)) return 1;
+          return 0;
+        }
+      return 1;
+    }
+  if (token_id == 1)
+    {
+      if ((A[p] == -1) || (A[p] == 5)) return 0;
+      if (Analyse(2)) return 1;
+      if (Analyse(1)) return 1;
+      return 0;
+    }
+  if (token_id == 2)
+    {
+      if (A[p] == 2)
+        {
+          p = p + 1;
+          return 0;
+        }
+      if (A[p] == 3)
+        {
+          p = p + 1;
+          if (Analyse(0)) return 1;
+          return 0;
+        }
+      return Analyse(0);
+    }
+}
+
+int testcase()
+{
+  cin >> N;
+  int i;
+  for (i = 1; i <= N; i = i + 1) cin >> A[i];
+  A[N + 1] = -1;
+  p = 1;
+  if ((Analyse(0) == 0) && (p == N + 1))
+    cout << 1 << endl;
+  else
+    cout << 0 << endl;
+}
+
+int main()
+{
+  int cases;
+  for (cin >> cases; cases; cases = cases - 1) testcase();
+}
+

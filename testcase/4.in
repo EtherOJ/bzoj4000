@@ -1,0 +1,122 @@
+2
+123456 654321
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int x;
+
+int function11()
+{
+  cout<<x<<endl;
+  x = 1;
+  cout<<x<<endl;
+  int x;
+  x = 2;
+  cout<<x<<endl;
+}
+
+int function12()
+{
+  function11();
+  cout<<x<<endl;
+}
+
+int Test1()
+{
+  int a_test_about_variable_domain;
+  x = 0; cout<<x<<endl;
+  function12();
+}
+
+int function21()
+{
+}
+
+int Test2()
+{
+  int a_test_about_default_value;
+  cout << a_test_about_default_value << endl;
+  a_test_about_default_value = function21();
+  cout << a_test_about_default_value << endl;
+}
+
+int function31(int x)
+{
+  cout << x << endl;
+  if (x == 1) return 0;
+  return function31(x - 1);
+}
+
+int Test3()
+{
+  int at_most_1000_layer;
+  function31(999);
+}
+
+int Test4()
+{
+  int now2int, now4int[2], now8int[2][2];
+  int now16int[2][2][2], now32int[2][2][2][2], now64int[2][2][2][2][2];
+  int now128int[2][2][2][2][2][2], now256int[2][2][2][2][2][2][2];
+  int now512int[2][2][2][2][2][2][2][2], now1024int[2][2][2][2][2][2][2][2][2];
+  int now2048int[4][4][4][4][4], now4096int[4][4][4][4][4][2];
+  int now8192int[4][4][4][4][4][4], now16384int[4][4][4][4][4][4][2];
+  int now32768int[4][4][4][4][4][4][4], now65536int[4][4][4][4][4][4][4][2];
+  int now131072int[16][16][16][16], now262144int[16][16][16][16][2];
+  int now524288int[16][16][16][16][4];
+  int now1048576int[16][16][16][16][8];
+  int nowallmemoryisused[16][16][16][16][16];
+  cout << 2097152 << endl;
+}
+
+int Test5()
+{
+  int a, b;
+  cin >> a >> b;
+  cout << a + b << endl;
+}
+
+int Test6()
+{
+  x = 1;
+  cout << x << endl;
+  {
+    int x;
+    x = 2;
+    cout << x << endl;
+    {
+      x = 3;
+      cout << x << endl;
+    }
+  }
+  cout << x << endl;
+}
+
+int function71()
+{
+  return x;
+}
+
+int function72()
+{
+  return x = x + 1;
+}
+
+int Test7()
+{
+  x = 0;
+  cout << function71() * function72() + x << endl;
+}
+
+int main()
+{
+  Test1();
+  Test2();
+  Test3();
+  Test4();
+  Test5();
+  Test6();
+  Test7();
+  return 0;
+}

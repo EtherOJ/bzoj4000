@@ -1,0 +1,40 @@
+0
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int a[3], b;
+int orz, xu, yin, zhan, MIT, ye;
+int honghonghuohuo, hanhanhuhu, huanghuanghuhu;
+
+int main()
+{
+  cout << a[0] << a[1] << a[2] << endl;
+  a[b = 1] = b = 2;
+  cout << a[0] << a[1] << a[2] << endl;
+  zhan = 1;
+  xu = (yin = (zhan = 3) + 2) % zhan;
+  ye = (MIT = (orz = 120) + 1) + 1;
+  putchar(orz); putchar(MIT); putchar(ye);
+  cout << endl << xu << yin << zhan << endl;
+  cout << honghonghuohuo << endl << hanhanhuhu << endl << huanghuanghuhu << endl;
+  honghonghuohuo = hanhanhuhu = huanghuanghuhu = 1;
+  cout << honghonghuohuo << endl << hanhanhuhu << endl << huanghuanghuhu << endl;
+  int honghonghuohuo, hanhanhuhu, huanghuanghuhu;
+  cout << honghonghuohuo << endl << hanhanhuhu << endl << huanghuanghuhu << endl;
+  putchar(honghonghuohuo = 2 * 2 * 2 * 3 * 3);
+  putchar(hanhanhuhu = 2 * 5 * 2 * 5 + 1);
+  putchar(huanghuanghuhu = 3 * 3 * (2 + 1) * 2 * 2);
+  putchar(honghonghuohuo = huanghuanghuhu);
+  putchar(hanhanhuhu = honghonghuohuo + 3);
+  putchar(huanghuanghuhu = (3 * 3 + 2) * 4);
+  putchar(honghonghuohuo = 2 * 2 * 2 * 2 * 2);
+  putchar(hanhanhuhu = 6 * 5 * 4 - 1);
+  putchar(huanghuanghuhu = hanhanhuhu - 2 * 2 * 2);
+  putchar(honghonghuohuo = 6 * 5 * 4 - 3 * 2 * 1);
+  putchar(hanhanhuhu = 9 * 12);
+  putchar(huanghuanghuhu = (1 + 2 + 3 + 4) * (1 + 2 + 3 + 4));
+  putchar(honghonghuohuo - 81);
+  cout << endl;
+  cout << honghonghuohuo << endl << hanhanhuhu << endl << huanghuanghuhu << endl;
+}

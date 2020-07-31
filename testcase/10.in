@@ -1,0 +1,18 @@
+1
+896
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int N, A, B;
+
+int main()
+{
+  cin >> N;
+  A = B = 0;
+  while (N % 4 == 0) {A = A + 1; N = N / 4;}
+  while (N % 7 == 0) {B = B + 1; N = N / 7;}
+  cout << A;
+  putchar(2 * 2 * 2 * 2 * 2);
+  cout << B << endl;
+}
