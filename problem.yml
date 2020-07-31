@@ -1,0 +1,5 @@
+name: 带Link、Cut树上路径k小值
+source: bzoj (OI-Archive)
+time_limit: 130000
+timing_mode: total
+space_limit: 512
