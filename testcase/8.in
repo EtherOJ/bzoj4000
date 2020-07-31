@@ -1,0 +1,101 @@
+30 100
+add 19 29 45
+add 29 28 35
+add 18 25 38
+add 21 15 24
+add 24 13 16
+add 30 23 9
+add 2 17 27
+add 4 24 41
+add 6 11 28
+add 23 9 49
+add 25 20 6
+add 10 19 39
+add 27 8 2
+add 9 10 13
+add 15 26 15
+add 5 22 28
+add 3 7 23
+add 28 14 8
+add 7 30 34
+add 17 3 21
+add 12 1 7
+add 26 4 6
+add 16 27 25
+add 1 6 16
+add 11 5 21
+add 22 16 48
+add 8 21 17
+change 28 14 13
+dest 30 7
+add 20 14 5
+del 21 8
+dest 19 28
+add 13 18 3
+del 19 29
+reach 21 26
+change 23 30 20
+reach 23 14
+add 12 2 13
+del 23 9
+add 19 8 42
+del 8 27
+add 29 9 18
+reach 17 9
+change 8 19 46
+dest 26 10
+del 25 20
+add 23 21 47
+reach 28 27
+del 20 14
+add 27 14 40
+del 22 5
+add 8 5 10
+del 23 30
+add 25 20 6
+dest 16 27
+del 4 24
+add 30 4 15
+del 26 15
+add 23 20 25
+del 29 9
+add 9 15 7
+change 3 7 42
+del 17 3
+change 6 1 14
+add 24 29 10
+dest 7 30
+dest 10 14
+del 16 22
+reach 7 1
+dest 15 17
+dest 22 14
+reach 8 23
+dest 28 13
+add 26 16 31
+del 10 9
+add 9 10 47
+del 18 25
+dest 15 1
+dest 11 5
+add 25 18 9
+del 10 19
+dest 26 24
+change 18 25 24
+add 19 10 20
+dest 12 17
+del 29 28
+reach 10 24
+dest 21 5
+add 28 17 7
+dest 2 21
+reach 19 4
+del 25 20
+add 22 29 35
+del 25 18
+reach 2 27
+add 20 22 22
+change 23 20 47
+del 1 6
+add 18 3 8
+del 8 19
