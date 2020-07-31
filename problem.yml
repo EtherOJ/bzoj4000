@@ -1,0 +1,5 @@
+name: "[Nwerc2015] Cleaning Pipes清理管道"
+source: bzoj (OI-Archive)
+time_limit: 5000
+timing_mode: total
+space_limit: 512
