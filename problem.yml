@@ -1,0 +1,5 @@
+name: "[Neerc2013 North]flight"
+source: bzoj (OI-Archive)
+time_limit: 3000
+timing_mode: total
+space_limit: 256
