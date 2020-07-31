@@ -1,0 +1,5 @@
+name: "[Neerc2015]Distance on Triangulation"
+source: bzoj (OI-Archive)
+time_limit: 100000
+timing_mode: total
+space_limit: 512
