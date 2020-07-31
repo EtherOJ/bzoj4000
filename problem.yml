@@ -1,0 +1,5 @@
+name: "[Jsoi2013]超立方体 "
+source: bzoj (OI-Archive)
+time_limit: 30000
+timing_mode: total
+space_limit: 256
