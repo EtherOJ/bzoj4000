@@ -1,0 +1,46 @@
+16 45
+find 0 1 0 32 5153
+find 1 2 0 26 7298
+find 2 3 1 36 8984
+find 3 4 1 15 3222
+find 4 5 4 13 6421
+find 5 6 5 33 9960
+find 6 7 6 31 5128
+find 7 8 7 34 270
+change 2 2713
+find 8 9 8 10 7043
+move 10 8
+find 9 10 9 40 7926
+find 10 11 10 12 6336
+find 11 12 11 22 5754
+change 3 4203
+move 13 12
+change 3 1538
+move 7 4
+change 5 3868
+find 12 13 12 2 2575
+find 13 14 13 35 8982
+find 14 15 14 4 5735
+move 4 11
+find 15 13 12 20 6323
+find 16 11 8 8 6443
+move 2 0
+find 17 0 10 24 3173
+move 10 9
+find 18 4 3 6 8784
+find 19 15 10 39 888
+move 4 15
+change 13 856
+find 20 3 1 43 3
+change 12 9252
+move 13 14
+move 2 6
+find 21 9 5 18 1539
+find 22 2 1 44 1491
+find 23 15 13 38 4680
+change 5 9164
+move 11 13
+move 6 5
+move 3 11
+change 11 9515
+find 24 10 7 28 1709

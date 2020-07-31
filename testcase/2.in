@@ -1,0 +1,51 @@
+18 50
+find 0 1 0 1 8971
+find 1 2 0 29 6577
+find 2 3 1 7 401
+find 3 4 0 2 6697
+find 4 5 1 17 7904
+find 5 6 5 25 2831
+find 6 7 6 21 7325
+find 7 8 7 23 6197
+find 8 9 8 8 9814
+move 7 4
+find 9 10 9 30 9947
+change 4 3868
+find 10 11 10 50 2856
+find 11 12 11 46 9634
+find 12 13 12 27 6163
+find 13 14 13 20 2612
+find 14 15 14 39 9546
+move 7 4
+move 9 1
+find 15 16 13 44 3558
+change 6 8316
+move 11 7
+find 16 17 16 24 5126
+find 17 12 8 37 6454
+move 15 11
+move 1 11
+move 13 2
+find 18 7 5 14 7224
+change 18 2302
+change 6 1939
+change 15 5559
+change 5 4471
+change 15 4646
+change 8 694
+move 8 17
+change 6 2900
+move 1 11
+find 19 7 6 11 2825
+move 4 16
+change 5 4810
+move 6 4
+move 10 6
+find 20 14 9 45 3699
+move 1 2
+find 21 1 0 16 9477
+find 22 10 5 13 8889
+find 23 0 16 9 690
+move 5 5
+move 2 7
+move 7 10
