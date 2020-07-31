@@ -1,0 +1,5 @@
+name: "[HEOI2015]公约数数列"
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 256
