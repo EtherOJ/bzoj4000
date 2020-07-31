@@ -1,0 +1,5 @@
+name: "[Zjoi2017]多项式"
+source: bzoj (OI-Archive)
+time_limit: 50000
+timing_mode: total
+space_limit: 512
