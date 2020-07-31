@@ -1,0 +1,161 @@
+                                                        +-------+
+                                                       /Y\YYYY'/|
+                                                      /YY.*'YY/Y|
+                                                     /.YYYY\Y/Y/|
+                                                    +-------+Y.Y|
+                                                    |\GGGGG/|\:Y|
+                                                    |G\GGG/G|Y*Y|
+                                                    |GG\G/GG|Y:\|
+                                                +---|GGGXGGG|Y'Y+       +-------+-------+
+                                               /Y\YY|GG/G\GG|/Y/|      /Y\YYYY'/Y\YYYY'/|
+                                              /YY.*'|G/GGG\G|Y/Y|     /YY.*'YY/YY.*'YY/Y|
+                                             /.GGGG\|/GGGGG\|/Y/|    /.YYYY\Y/.YYYY\Y/Y/|
+                                    +-------+-------+-------+Y.Y|   +-------+-------+Y.Y|---+               +-------+
+                                   /Y\YYYY'/|\GGGG'/|\GGGGG/|\:Y|  /Y\YYYY'/|\GGGGG/|\:Y|Y'/|              /Y\YYYY'/|
+                                  /YY.*'YY/Y|.*'GG/G|G\GGG/G|Y*Y| /YY.*'YY/Y|G\GGG/G|Y*Y|Y/Y|             /YY.*'YY/Y|
+                                 /.YYYY\Y/Y/|GG\G/G/|GG\G/GG|Y:\|/.YYYY\Y/Y/|GG\G/GG|Y:\|/Y/|            /.YYYY\Y/Y/|
+                                +-------+Y.Y|---+G.G|GGGXGGG|Y'Y+-------+Y.G|GGGXGGG|Y'Y+Y.Y|           +-------+Y.Y|
+                                |\GGGGG/|\:Y|GG/|\:G|GG/G\GG|/Y/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|           |\GGGGG/|\:Y|
+                                |G\GGG/G|Y*Y|G/G|G*G|G/GGG\G|Y/Y|G\GGG/G|Y*G|G/GGG\G|Y/Y|Y*Y|           |G\GGG/G|Y*Y|
+                                |GG\G/GG|Y:\|/GG|G:\|/GGGGG\|/.G|GG\G/GG|Y:\|/GGGGG\|/Y/|Y:\|           |GG\G/GG|Y:\|
+                            +---|GGGXGGG|Y'Y+-------+-------+---|GGGXGGG|Y'G+-------+Y.Y|Y'Y+           |GGGXGGG|Y'Y+
+                           /Y\YY|GG/G\GG|/Y/Y\YYYY'/|\GGGGG/|\KK|GG/G\GG|/G/G\GGGG'/|\:Y|/Y/|           |GG/G\GG|/Y/|
+                          /YY.*'|G/GGG\G|Y/YY.*'YY/Y|G\GGG/K|K\K|G/GGG\G|G/GG.*'YY/Y|Y*Y|Y/Y|           |G/GGG\G|Y/Y|
+                         /.GGGG\|/GGGGG\|/.YYYY\Y/Y/|GG\G/KK|KK\|/GGGGG\|/.YYYY\Y/Y/|Y:\|/Y/|           |/GGGGG\|/Y/|
+                        +-------+-------+-------+Y.Y|GGG+---|KKK+-------+-------+Y.Y|Y'Y+Y.Y|           +-------+Y.Y|
+                        |\GGGGG/|\GGGGG/|\GGGGG/|\:Y|GG/Y\RR|KK/Y\YYYY'/|\GGGGG/|\:Y|/Y/|\:Y|           |\GGGGG/|\:Y|
+                        |G\GGG/G|G\GGG/G|G\GGG/G|Y*Y|G/YY.*'|K/YY.*'YY/Y|G\GGG/G|Y*Y|Y/Y|Y*Y|           |G\GGG/G|Y*Y|
+                        |GG\G/GG|GG\G/GG|GG\G/GG|Y:\|/.GGGG\|/.YYYY\Y/Y/|GG\G/GG|Y:\|/Y/|Y:\|           |GG\G/GG|Y:\|
+                        |GGGXGGG|GGGXGGG|GGG+-------+-------+-------+Y.Y|GGGXGGG|Y'Y+Y.Y|Y'Y+           |GGGXGGG|Y'Y+
+                        |GG/G\GG|GG/G\GG|GG/Y\YYYY'/|\GGGG'/|\GGGGG/|\:Y|GG/G\GG|/Y/|\:Y|/Y/|           |GG/G\GG|/Y/|
+                        |G/GGG\G|G/GGG\G|G/YY.*'YY/Y|.*'GG/G|G\GGG/G|Y*Y|G/GGG\G|Y/Y|Y*Y|Y/Y|           |G/GGG\G|Y/Y|
+                        |/GGGGG\|/GGGGG\|/.YYYY\Y/Y/|GG\G/G/|GG\G/GG|Y:\|/GGGGG\|/Y/|Y:\|/Y/|           |/GGGGG\|/Y/|
+                +-------+-------+-------+-------+Y.Y|---+G.G|GGGXGGG|Y'Y+-------+Y.Y|Y'Y+Y.Y|           +-------+Y.Y|---+
+               /Y\YYYY'/|\GGGGG/|\GGGGG/|\GGGGG/|\:Y|GG/|\:G|GG/G\GG|/Y/|\GGGGG/|\:Y|/Y/|\:Y|           |\GGGGG/|\:Y|Y'/|
+              /YY.*'YY/Y|G\GGG/G|G\GGG/G|G\GGG/G|Y*Y|G/K|K*G|G/GGG\G|Y/Y|G\GGG/G|Y*Y|Y/Y|Y*Y|           |G\GGG/G|Y*Y|Y/Y|
+             /.YYYY\Y/Y/|GG\G/GG|GG\G/GG|GG\G/GG|Y:\|/KK|K:\|/GGGGG\|/Y/|GG\G/GG|Y:\|/Y/|Y:\|           |GG\G/GG|Y:\|/Y/|
+            +-------+Y.Y|GGG+-------+GGG|GGGXGGG|Y'Y+KKK|K'K+-------+Y.Y|GGGXGGG|Y'Y+Y.Y|Y'Y+           |GGGXGGG|Y'Y+Y.Y|
+            |\GGGGG/|\:Y|GG/Y\YYYY'/|\GG|GG/G\GG|/Y/|\KK|/K/|\GGGGG/|\:Y|GG/G\GG|/Y/|\:Y|/Y/|           |GG/G\GG|/Y/|\:Y|
+            |G\GGG/G|Y*Y|G/YY.*'YY/R|G\G|G/GGG\G|Y/G|K\K|K/Y|G\GGG/G|Y*Y|G/GGG\G|Y/G|Y*Y|Y/Y|           |G/GGG\G|Y/Y|Y*Y|
+            |GG\G/GG|Y:\|/.YYYY\Y/R/|GG\|/GGGGG\|/G/|KK\|/.Y|GG\G/GG|Y:\|/GGGGG\|/G/|Y:\|/Y/|           |/GGGGG\|/Y/|Y:\|
+            |GGGXGGG|Y'Y+-------+R.R|---+-------+G.G|---+---|GGGXGGG|Y'Y+-------+-------+Y.Y|           +-------+Y.Y|Y'Y+
+            |GG/G\GG|/Y/|\GGGGG/|\:R|KK/|\GGGGG/|\:G|KK/|\KK|GG/G\GG|/Y/|\GGGGG/Y\YYYY'/|\:Y|           |\GGGGG/|\:Y|/Y/|
+            |G/GGG\G|Y/Y|G\GGG/G|R*R|K/K|G\GGG/G|G*G|K/K|K\K|G/GGG\G|Y/Y|G\GGG/YY.*'YY/Y|Y*Y|           |G\GGG/G|Y*Y|Y/Y|
+            |/GGGGG\|/Y/|GG\G/GG|R:\|/KK|GG\G/GG|G:\|/KK|KK\|/GGGGG\|/Y/|GG\G/.YYYY\Y/Y/|Y:\|           |GG\G/GG|Y:\|/Y/|
+            +-------+Y.Y|GGGXGGG|R'R+KKK|GGGXGGG|G'G+KKK|KKK+-------+-------+-------+Y.Y|Y'Y+-------+   |GGGXGGG|Y'Y+Y.Y|
+            |\GGGGG/|\:Y|GG/G\GG|/R/|\KK|GG/G\GG|/G/|\KK|KK/|\GGGGG/Y\YYYY'/|\GGGGG/|\:Y|/Y/Y\YYYY'/|   |GG/G\GG|/Y/|\:Y|
+            |G\GGG/G|Y*Y|G/GGG\G|R/K|K\K|G/GGG\G|G/G|K\K|K/K|G\GGG/YY.*'YY/Y|G\GGG/G|Y*Y|Y/YY.*'YY/Y|   |G/GGG\G|Y/Y|Y*Y|
+            |GG\G/GG|Y:\|/GGGGG\|/K/|KK\|/GGGGG\|/G/|KK\|/KK|GG\G/.YYYY\Y/Y/|GG\G/GG|Y:\|/.YYYY\Y/Y/|   |/GGGGG\|/Y/|Y:\|
+            |GGGXGGG|Y'Y+-------+K.K|---+-------+G.G|---+-------+-------+Y.G|GGGXGGG|Y'Y+-------+Y.Y|   +-------+Y.Y|Y'Y+
+            |GG/G\GG|/Y/|\GGGGG/|\:K|KK/|\GGGGG/|\:G|KK/Y\YYYY'/|\GGGGG/|\:G|GG/G\GG|/Y/|\GGGGG/|\:Y|   |\GGGGG/|\:Y|/Y/|
+            |G/GGG\G|Y/Y|G\GGG/G|K*K|K/K|G\GGG/G|G*G|K/YY.*'YY/R|G\GGG/G|Y*G|G/GGG\G|Y/Y|G\GGG/G|Y*Y|   |G\GGG/G|Y*Y|Y/Y|
+            |/GGGGG\|/Y/|GG\G/GG|K:\|/KK|GG\G/GG|G:\|/.YYYY\Y/R/|GG\G/GG|Y:\|/GGGGG\|/Y/|GG\G/GG|Y:\|   |GG\G/GG|Y:\|/Y/|
+            +-------+Y.Y|GGG+-------+KKK|GGGXGGG|G'G+-------+R.R|GGGXGGG|Y'G+-------+Y.Y|---+GGG|Y'Y+   |GGGXGGG|Y'Y+Y.Y|
+            |\GGGGG/|\:Y|GG/G\GGGG'/|\KK|GG/G\GG|/G/|\GGGGG/|\:R|GG/G\GG|/G/|\GGGGG/|\:Y|Y'/|\GG|/Y/|   |GG/G\GG|/Y/|\:Y|
+            |G\GGG/G|Y*Y|G/GG.*'YY/Y|K\K|G/GGG\G|G/K|G\GGG/G|R*R|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|   |G/GGG\G|Y/Y|Y*Y|
+            |GG\G/GG|Y:\|/.YYYY\Y/Y/|KK\|/GGGGG\|/K/|GG\G/GG|R:\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|   |/GGGGG\|/Y/|Y:\|
+            |GGGXGGG|Y'Y+-------+Y.G|---+-------+K.K|GGGXGGG|R'R+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|   +-------+Y.Y|Y'Y+
+            |GG/G\GG|/Y/|\GGGGG/|\:G|K'/|\GGGGG/|\:K|GG/G\GG|/R/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|  /G\GGGG'/|\:Y|/Y/|
+            |G/GGG\G|Y/R|G\GGG/G|Y*G|K/K|G\GGG/G|K*K|G/GGG\G|R/R|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y| /GG.*'YY/Y|Y*Y|Y/Y|
+            |/GGGGG\|/R/|GG\G/GG|Y:\|/K/|GG\G/GG|K:\|/GGGGG\|/R/|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/.YYYY\Y/Y/|Y:\|/Y/|
+            +-------+R.R|GGGXGGG|Y'G+K.K|GGGXGGG|K'K+-------+R.R|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+-------+Y.Y|Y'Y+Y.Y|
+            |\GGGGG/|\:R|GG/G\GG|/G/|\:K|GG/G\GG|/K/|\GGGGG/|\:R|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GGGGG/|\:Y|/Y/|\:Y|
+            |G\GGG/G|R*R|G/GGG\G|G/G|K*K|G/GGG\G|K/K|G\GGG/G|R*R|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\GGG/G|Y*Y|Y/Y|Y*Y|
+            |GG\G/GG|R:\|/GGGGG\|/G/|K:\|/GGGGG\|/K/|GG\G/GG|R:\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\G/GG|Y:\|/Y/|Y:\|
+            |GGGXGGG|R'R+-------+G.G|K'K+-------+K.K|GGGXGGG|R'R+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|GGGXGGG|Y'Y+Y.Y|Y'Y+
+            |GG/G\GG|/R/|\GGGGG/|\:G|/K/|\GGGGG/|\:K|GG/G\GG|/R/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/G\GG|/Y/|\:Y|/Y/|
+            |G/GGG\G|R/R|G\GGG/G|G*G|K/K|G\GGG/G|K*K|G/GGG\G|R/R|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/GGG\G|Y/Y|Y*Y|Y/Y|
+            |/GGGGG\|/R/|GG\G/GG|G:\|/K/|GG\G/GG|K:\|/GGGGG\|/R/|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GGGGG\|/Y/|Y:\|/Y/|
+    +-------+-------+R.R|GGGXGGG|G'G+K.K|GGGXGGG|K'K+-------+---|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+-------+Y.Y|Y'Y+Y.Y|
+   /G\GGGG'/|\GGGGG/|\:R|GG/G\GG|/G/|\:K|GG/G\GG|/K/|\GGGGG/Y\RR|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GGGG'/|\:Y|/Y/|\:Y|
+  /GG.*'GG/G|G\GGG/G|R*R|G/GGG\G|G/G|K*K|G/GGG\G|K/K|G\GGG/YY.*'|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|.*'YY/Y|Y*Y|Y/Y|Y*Y|
+ /.GGGG\G/G/|GG\G/GG|R:\|/GGGGG\|/G/|K:\|/GGGGG\|/K/|GG\G/.GGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|YY\Y/Y/|Y:\|/Y/|Y:\|
++-------+G.G|GGGXGGG|R'R+-------+G.G|K'K+-------+K.K|GGG+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\:G|GG/G\GG|/R/|\GGGGG/|\:G|/K/|\GGGGG/|\:K|GG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/|\:Y|/Y/|\:Y|/Y/|
+|G\GGG/G|G*G|G/GGG\G|R/K|G\GGG/G|G*G|K/K|G\GGG/G|K*K|G/K|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/G|Y*Y|Y/Y|Y*Y|Y/Y|
+|GG\G/GG|G:\|/GGGGG\|/K/|GG\G/GG|G:\|/.K|GG\G/GG|K:\|/KK|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GG|Y:\|/Y/|Y:\|/Y/|
+|GGGXGGG|G'G+-------+K.K|GGGXGGG|G'G+---|GGGXGGG|K'K+---|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+GGG|Y'Y+Y.Y|Y'Y+Y.Y|
+|GG/G\GG|/G/|\GGGGG/|\:K|GG/G\GG|/G/|\KK|GG/G\GG|/K/|\KK|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GG|/Y/|\:Y|/Y/|\:Y|
+|G/GGG\G|G/G|G\GGG/G|K*K|G/GGG\G|G/G|.*'|G/GGG\G|K/K|K\K|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\G|Y/Y|Y*Y|Y/Y|Y*Y|
+|/GGGGG\|/G/|GG\G/GG|K:\|/GGGGG\|/G/|GG\|/GGGGG\|/K/|KK\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\|/Y/|Y:\|/Y/|Y:\|
++-------+G.G|GGGXGGG|K'K+-------+G.G|---+-------+K.K|KKK+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\:G|GG/G\GG|/K/|\GGGGG/|\:G|GG/|\GGGGG/|\:K|KK/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/|\:Y|/Y/|\:Y|/Y/|
+|G\GGG/G|G*G|G/GGG\G|K/K|G\GGG/G|G*G|G/G|G\GGG/G|K*K|K/K|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/G|Y*Y|Y/Y|Y*Y|Y/Y|
+|GG\G/GG|G:\|/GGGGG\|/K/|GG\G/GG|G:\|/GG|GG\G/GG|K:\|/KK|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GG|Y:\|/Y/|Y:\|/Y/|
+|GGGXGGG|G'G+-------+K.K|GGGXGGG|G'G+GGG|GGGXGGG|K'K+---|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+GGG|Y'Y+Y.Y|Y'Y+Y.Y|
+|GG/G\GG|/G/|\GGGGG/|\:K|GG/G\GG|/G/|\GG|GG/G\GG|/K/|\KK|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GG|/Y/|\:Y|/Y/|\:Y|
+|G/GGG\G|G/G|G\GGG/G|K*K|G/GGG\G|G/G|G\G|G/GGG\G|K/K|K\K|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\G|Y/Y|Y*Y|Y/Y|Y*Y|
+|/GGGGG\|/G/|GG\G/GG|K:\|/GGGGG\|/G/|GG\|/GGGGG\|/K/|KK\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\|/Y/|Y:\|/Y/|Y:\|
++-------+G.G|GGGXGGG|K'K+-------+G.G|---+-------+K.K|KKK+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\:G|GG/G\GG|/K/|\GGGGG/|\:G|G'/|\GGGGG/|\:K|KK/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/|\:Y|/Y/|\:Y|/Y/|
+|G\GGG/G|G*G|G/GGG\G|K/K|G\GGG/G|G*G|G/G|G\GGG/G|K*K|K/K|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/G|Y*Y|Y/Y|Y*Y|Y/Y|
+|GG\G/GG|G:\|/GGGGG\|/K/|GG\G/GG|G:\|/G/|GG\G/GG|K:\|/KK|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GG|Y:\|/Y/|Y:\|/Y/|
+|GGGXGGG|G'G+-------+K.K|GGGXGGG|G'G+G.G|GGGXGGG|K'K+---|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+GGG|Y'Y+Y.Y|Y'Y+Y.Y|
+|GG/G\GG|/G/|\GGGGG/|\:K|GG/G\GG|/G/|\:G|GG/G\GG|/K/G\KK|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GG|/Y/|\:Y|/Y/|\:Y|
+|G/GGG\G|G/G|G\GGG/G|K*K|G/GGG\G|G/G|G*G|G/GGG\G|K/GG.*'|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\G|Y/Y|Y*Y|Y/Y|Y*Y|
+|/GGGGG\|/G/|GG\G/GG|K:\|/GGGGG\|/G/|G:\|/GGGGG\|/.GGGG\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\|/Y/|Y:\|/Y/|Y:\|
++-------+G.G|GGGXGGG|K'K+-------+G.G|G'G+-------+-------+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\:G|GG/G\GG|/K/|\GGGGG/|\:G|/G/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/|\:Y|/Y/|\:Y|/Y/|
+|G\GGG/G|G*G|G/GGG\G|K/K|G\GGG/G|G*G|G/G|G\GGG/K|G\GGG/G|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/G|Y*Y|Y/Y|Y*Y|Y/Y|
+|GG\G/GG|G:\|/GGGGG\|/K/|GG\G/GG|G:\|/G/|GG\G/KK|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GG|Y:\|/Y/|Y:\|/Y/|
+|GGGXGGG|G'G+-------+---|GGGXGGG|G'G+G.G|GGGXKKK|GGGXGGG|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+GGG|Y'Y+Y.Y|Y'Y+Y.Y|
+|GG/G\GG|/G/|\GGGGG/G\KK|GG/G\GG|/G/|\:G|GG/K\KK|GG/G\GG|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GG|/Y/|\:Y|/Y/|\:Y|
+|G/GGG\G|G/G|G\GGG/GG.*'|G/GGG\G|G/G|G*G|G/KKK\K|G/GGG\G|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\G|Y/Y|Y*Y|Y/Y|Y*Y|
+|/GGGGG\|/G/|GG\G/.GGGG\|/GGGGG\|/G/|G:\|/KKKKK\|/GGGGG\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\|/Y/|Y:\|/Y/|Y:\|
++-------+G.G|GGG+-------+-------+G.G|G'G+-------+-------+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\:G|GG/|\GGGGG/|\GGGGG/|\:G|/G/|\KKKKK/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/|\:Y|/Y/|\:Y|/Y/|
+|G\GGG/G|G*G|G/K|G\GGG/G|G\GGG/G|G*G|G/G|K\KKK/K|G\GGG/G|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/G|Y*Y|Y/Y|Y*Y|Y/Y|
+|GG\G/GG|G:\|/KK|GG\G/GG|GG\G/GG|G:\|/G/|KK\K/KK|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GG|Y:\|/Y/|Y:\|/Y/|
+|GGGXGGG|G'G+---|GGGXGGG|GGGXGGG|G'G+G.G|KKKXKKK|GGGXGGG|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+GGG|Y'Y+Y.Y|Y'Y+Y.Y|
+|GG/G\GG|/G/|\KK|GG/G\GG|GG/G\GG|/G/|\:G|KK/K\KK|GG/G\GG|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GG|/Y/|\:Y|/Y/|\:Y|
+|G/GGG\G|G/G|K\K|G/GGG\G|G/GGG\G|G/G|G*G|K/KKK\K|G/GGG\G|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\G|Y/Y|Y*Y|Y/Y|Y*Y|
+|/GGGGG\|/G/|KK\|/GGGGG\|/GGGGG\|/G/|G:\|/KKKKK\|/GGGGG\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\|/Y/|Y:\|/Y/|Y:\|
++-------+G.G|KKK+-------+-------+G.G|G'G+-------+-------+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\:G|KK/|\GGGGG/|\GGGGG/|\:G|/G/|\KKKKK/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/|\:Y|/Y/|\:Y|/Y/|
+|G\GGG/G|G*G|K/K|G\GGG/G|G\GGG/G|G*G|G/G|K\KKK/K|G\GGG/G|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/G|Y*Y|Y/Y|Y*Y|Y/Y|
+|GG\G/GG|G:\|/KK|GG\G/GG|GG\G/GG|G:\|/G/|KK\K/KK|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GG|Y:\|/Y/|Y:\|/Y/|
+|GGGXGGG|G'G+---|GGGXGGG|GGGXGGG|G'G+-------+KKK|GGGXGGG|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+GGG|Y'Y+Y.Y|Y'Y+Y.Y|
+|GG/G\GG|/G/G\KK|GG/G\GG|GG/G\GG|/G/G\GGGG'/|\KK|GG/G\GG|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GG|/Y/|\:Y|/Y/|\:Y|
+|G/GGG\G|G/GG.*'|G/GGG\G|G/GGG\G|G/GG.*'GG/G|K\K|G/GGG\G|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\G|Y/Y|Y*Y|Y/Y|Y*Y|
+|/GGGGG\|/.GGGG\|/GGGGG\|/GGGGG\|/.GGGG\G/G/|KK\|/GGGGG\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\|/Y/|Y:\|/Y/|Y:\|
++-------+-------+-------+-------+-------+G.G|---+-------+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|K'/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|GG/|\:Y|GG/|\:Y|/Y/|\:Y|/Y/
+|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G*G|K/K|G\GGG/G|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|G/G|Y*Y|G/G|Y*Y|Y/Y|Y*Y|Y/
+|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/K/|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/GG|Y:\|/GG|Y:\|/Y/|Y:\|/
+|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|G'G+---|GGGXGGG|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+GGG|Y'Y+GGG|Y'Y+Y.Y|Y'Y+
+|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|/G/G\KK|GG/G\GG|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\GG|/Y/|\GG|/Y/|\:Y|/Y/
+|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GG.*'|G/GGG\G|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|G\G|Y/Y|G\G|Y/Y|Y*Y|Y/
+|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/.GGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|GG\|/Y/|GG\|/Y/|Y:\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|---+Y.Y|---+Y.Y|Y'Y+
+|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|G'/|\:Y|G'/|\:Y|/Y/
+|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|Y/Y|Y*Y|Y/Y|Y*Y|Y/
+|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/Y/|Y:\|/Y/|Y:\|/
+|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+Y.Y|Y'Y+Y.Y|Y'Y+
+|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\:Y|/Y/|\:Y|/Y/
+|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|Y*Y|Y/Y|Y*Y|Y/
+|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|Y:\|/Y/|Y:\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|/Y/|\:Y|/Y/
+|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|Y/Y|Y*Y|Y/
+|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/Y/|Y:\|/
+|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+Y.Y|Y'Y+
+|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|/G/|\GGGGG/|\:Y|/Y/|\:Y|/Y/
+|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/G|G\GGG/G|Y*Y|Y/Y|Y*Y|Y/
+|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/G/|GG\G/GG|Y:\|/Y/|Y:\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+G.G|GGGXGGG|Y'Y+Y.Y|Y'Y+
+|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\:G|GG/G\GG|/Y/|\:Y|/Y/
+|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G*G|G/GGG\G|Y/Y|Y*Y|Y/
+|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|G:\|/GGGGG\|/Y/|Y:\|/
+|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|G'G+-------+Y.Y|Y'Y+
+|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|/G/G\GGGG'/|\:Y|/Y/
+|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GG.*'YY/Y|Y*Y|Y/
+|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/.YYYY\Y/Y/|Y:\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+Y.Y|Y'Y+
+|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\GGGGG/|\:Y|/Y/
+|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|G\GGG/G|Y*Y|Y/
+|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|GG\G/GG|Y:\|/
+|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|GGGXGGG|Y'Y+
+|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|GG/G\GG|/Y/
+|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|G/GGG\G|Y/
+|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/GGGGG\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+

@@ -1,0 +1,157 @@
+                                                            +-------+
+                                                           /W\WWWW'/|
+                                                          /WW.*'WW/K|
+                                                         /.WWWW\W/K/|
+                                        +-------+-------+-------+K.K|                   +-------+-------+-------+
+                                       /W\WWWW'/W\WWWW'/|\CCCCC/|\:K|                  /W\WWWW'/W\WWWW'/W\WWWW'/|
+                                      /WW.*'WW/WW.*'WW/K|C\CCC/C|K*K|                 /WW.*'WW/WW.*'WW/WW.*'WW/K|
+                                     /.WWWW\W/.WWWW\W/K/|CC\C/CC|K:\|                /.WWWW\W/.WWWW\W/.WWWW\W/K/|
+                                    +-------+-------+K.K|CCCXCCC|K'K+-------+       +-------+-------+-------+K.K|
+                                    |\CCCCC/|\CCCCC/|\:K|CC/C\CC|/K/W\WWWW'/|       |\CCCCC/|\CCCCC/W\WWWW'/|\:K|
+                                    |C\CCC/C|C\CCC/C|K*K|C/CCC\C|K/WW.*'WW/K|       |C\CCC/C|C\CCC/WW.*'WW/K|K*K|
+                                    |CC\C/CC|CC\C/CC|K:\|/CCCCC\|/.WWWW\W/K/|       |CC\C/CC|CC\C/.WWWW\W/K/|K:\|
+                                    |CCCXCCC|CCCXCCC|K'K+-------+-------+K.K|       |CCCXCCC|CCC+-------+K.K|K'K+
+                                    |CC/C\CC|CC/C\CC|/K/|\CCCCC/W\WWWW'/|\:K|       |CC/C\CC|CC/|\CCCCC/|\:K|/K/|
+                                    |C/CCC\C|C/CCC\C|K/K|C\CCC/WW.*'WW/K|K*K|       |C/CCC\C|C/C|C\CCC/C|K*K|K/K|
+                                    |/CCCCC\|/CCCCC\|/K/|CC\C/.WWWW\W/K/|K:\|       |/CCCCC\|/CC|CC\C/CC|K:\|/K/|
+                    +-------+       +-------+-------+-------+-------+K.K|K'K+       +-------+---|CCCXCCC|K'K+K.K|
+                   /W\WWWW'/|       |\CCCCC/|\CCCCC/W\WWWW'/|\CCCCC/|\:K|/K/|       |\CCCCC/|\BB|CC/C\CC|/K/|\:K|
+                  /WW.*'WW/K|       |C\CCC/C|C\CCC/WW.*'WW/K|B\CCC/C|K*K|K/K|       |C\CCC/C|B\B|C/CCC\C|K/K|K*K|
+                 /.WWWW\W/K/|       |CC\C/CC|CC\C/.WWWW\W/K/|BB\C/CC|K:\|/K/|       |CC\C/CC|BB\|/CCCCC\|/K/|K:\|
+                +-------+K.K|       |CCCXCCC|CCC+-------+K.K|BBBXCCC|K'K+K.K|       |CCC+-------+-------+K.K|K'K+
+               /W\WWWW'/|\:K|       |CC/C\CC|CC/|\CCCCC/|\:K|BB/B\CC|/K/|\:K|       |CC/W\WWWW'/|\WWWW'/|\:K|/K/|
+              /WW.*'WW/K|K*K|       |C/CCC\C|C/C|C\CCC/C|K*K|B/BBB\C|K/K|K*K|       |C/WW.*'WW/K|.*'WW/K|K*K|K/K|
+             /.WWWW\W/K/|K:\|       |/CCCCC\|/CC|CC\C/CC|K:\|/BBBBB\|/K/|K:\|       |/.WWWW\W/K/|WW\W/K/|K:\|/K/|
+            +-------+K.K|K'K+       +-------+---|CCCXCCC|K'K+-------+K.K|K'K+       +-------+K.K|---+K.K|K'K+K.K|
+            |\CCCCC/|\:K|/K/|       |\CCCCC/W\WW|CC/C\CC|/K/|\BBBBB/|\:K|/K/|       |\CCCCC/|\:K|GG/|\:K|/K/|\:K|
+            |C\CCC/C|K*K|K/K|       |C\CCC/WW.*'|C/CCC\C|K/K|B\BBB/B|K*K|K/K|       |C\CCC/C|K*K|G/G|K*K|K/K|K*K|
+            |CC\C/CC|K:\|/K/|       |CC\C/.WWWW\|/CCCCC\|/K/|BB\B/BB|K:\|/K/|       |CC\C/CC|K:\|/GG|K:\|/K/|K:\|
+            |CCCXCCC|K'K+-------+   |CCC+-------+-------+K.K|BBBXBBB|K'K+K.K|---+   |CCCXCCC|K'K+GGG|K'K+K.K|K'K+
+            |CC/C\CC|/K/W\WWWW'/|   |CC/|\CCCCC/W\WWWW'/|\:K|BB/B\BB|/K/|\:K|C'/|   |CC/C\CC|/K/|\GG|/K/|\:K|/K/|
+            |C/CCC\C|K/WW.*'WW/K|   |C/C|C\CCC/WW.*'WW/K|K*K|B/BBB\B|K/K|K*K|C/K|   |C/CCC\C|K/K|G\G|K/K|K*K|K/K|
+            |/CCCCC\|/.WWWW\W/K/|   |/CC|CC\C/.WWWW\W/K/|K:\|/BBBBB\|/K/|K:\|/K/|   |/CCCCC\|/K/|GG\|/K/|K:\|/K/|
+            +-------+-------+K.K|   +---|CCC+-------+K.K|K'K+-------+K.K|K'K+K.K|   +-------+K.K|---+K.K|K'K+K.K|
+            |\CCCCC/|\CCCCC/|\:K|   |\GG|CC/|\CCCCC/|\:K|/K/|\BBBBB/|\:K|/K/|\:K|   |\CCCCC/|\:K|GG/|\:K|/K/|\:K|
+            |C\CCC/C|C\CCC/C|K*K|   |G\G|C/C|C\CCC/C|K*K|K/K|B\BBB/B|K*K|K/K|K*K|   |C\CCC/C|K*K|G/G|K*K|K/K|K*K|
+            |CC\C/CC|CC\C/CC|K:\|   |GG\|/CC|CC\C/CC|K:\|/K/|BB\B/BB|K:\|/K/|K:\|   |CC\C/CC|K:\|/GG|K:\|/K/|K:\|
+            |CCCXCCC|CCCXCCC|K'K+   |GGG+---|CCCXCCC|K'K+-------+BBB|K'K+-------+   |CCCXCCC|K'K+GGG|K'K+K.K|K'K+
+            |CC/C\CC|CC/C\CC|/K/|   |GG/W\WW|CC/C\CC|/K/C\CCCC'/|\BB|/K/W\WWWW'/|   |CC/C\CC|/K/|\GG|/K/|\:K|/K/|
+            |C/CCC\C|C/CCC\C|K/K|   |G/WW.*'|C/CCC\C|K/CC.*'CC/K|B\B|K/WW.*'WW/K|   |C/CCC\C|K/K|G\G|K/K|K*K|K/K|
+            |/CCCCC\|/CCCCC\|/K/|   |/.WWWW\|/CCCCC\|/.CCCC\C/K/|BB\|/.WWWW\W/K/|   |/CCCCC\|/K/|GG\|/K/|K:\|/K/|
+            +-------+-------+K.K|---+-------+-------+-------+K.K|---+-------+K.K|   +-------+K.K|---+K.K|K'K+K.K|
+            |\CCCCC/|\CCCCC/|\:K|W'/W\WWWW'/|\CCCCC/|\CCCCC/|\:K|KK/|\CCCCC/|\:K|  /W\WWWW'/|\:K|GG/|\:K|/K/|\:K|
+            |C\CCC/C|C\CCC/C|K*K|W/WW.*'WW/K|C\CCC/C|C\CCC/C|K*K|K/C|C\CCC/C|K*K| /WW.*'WW/K|K*K|G/G|K*K|K/K|K*K|
+            |CC\C/CC|CC\C/CC|K:\|/.WWWW\W/K/|CC\C/CC|CC\C/CC|K:\|/.C|CC\C/CC|K:\|/.WWWW\W/K/|K:\|/GG|K:\|/K/|K:\|
+            |CCCXCCC|CCCXCCC|K'K+-------+K.K|CCCXCCC|CCCXCCC|K'K+---|CCCXCCC|K'K+-------+K.K|K'K+GGG|K'K+K.K|K'K+
+            |CC/C\CC|CC/C\CC|/K/|\BBBBB/|\:K|CC/C\CC|CC/C\CC|/K/|\GG|CC/C\CC|/K/|\BBBBB/|\:K|/K/|\GG|/K/|\:K|/K/|
+            |C/CCC\C|C/CCC\C|K/K|B\BBB/B|K*K|C/CCC\C|C/CCC\C|K/K|G\G|C/CCC\C|K/K|B\BBB/B|K*K|K/K|K\G|K/K|K*K|K/K|
+            |/CCCCC\|/CCCCC\|/K/|BB\B/BB|K:\|/CCCCC\|/CCCCC\|/K/|GG\|/CCCCC\|/K/|BB\B/BB|K:\|/K/|KK\|/K/|K:\|/K/|
+            +-------+-------+K.K|BBBXBBB|K'K+-------+-------+K.K|---+-------+K.K|BBBXBBB|K'K+K.K|---+K.K|K'K+K.K|
+           /W\WWWW'/|\CCCCC/|\:K|BB/B\BB|/K/W\WWWW'/|\CCCCC/|\:K|W'/|\CCCCC/|\:K|BB/B\BB|/K/|\:K|KK/|\:K|/K/|\:K|
+          /WW.*'WW/K|B\CCC/C|K*K|B/BBB\B|K/WW.*'WW/K|B\CCC/C|K*K|W/K|C\CCC/C|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|
+         /.WWWW\W/K/|BB\C/CC|K:\|/BBBBB\|/.WWWW\W/K/|BB\C/CC|K:\|/K/|CC\C/CC|K:\|/BBBBB\|/K/|K:\|/KK|K:\|/K/|K:\|
+        +-------+K.K|BBBXCCC|K'K+-------+-------+K.K|BBBXCCC|K'K+K.K|CCCXCCC|K'K+-------+K.K|K'K+KKK|K'K+K.K|K'K+
+        |\CCCCC/|\:K|BB/B\CC|/K/|\BBBBB/|\CCCCC/|\:K|BB/B\CC|/K/|\:K|CC/C\CC|/K/|\BBBBB/|\:K|/K/|\KK|/K/|\:K|/K/|
+        |C\CCC/C|K*K|B/BBB\C|K/K|B\BBB/B|C\CCC/C|K*K|B/BBB\C|K/K|K*K|C/CCC\C|K/K|B\BBB/B|K*K|K/K|K\K|K/K|K*K|K/K|
+        |CC\C/CC|K:\|/BBBBB\|/K/|BB\B/BB|CC\C/CC|K:\|/BBBBB\|/K/|K:\|/CCCCC\|/K/|BB\B/BB|K:\|/K/|KK\|/K/|K:\|/K/|
+    +---|CCCXCCC|K'K+-------+K.K|BBBXBBB|CCCXCCC|K'K+-------+-------+-------+K.K|BBBXBBB|K'K+K.K|---+K.K|K'K+K.K|
+   /W\WW|CC/C\CC|/K/|\BBBBB/|\:K|BB/B\BB|CC/C\CC|/K/|\BBBBB/W\WWWW'/|\CCCCC/|\:K|BB/B\BB|/K/|\:K|KK/|\:K|/K/|\:K|
+  /WW.*'|C/CCC\C|K/K|B\BBB/B|K*K|B/BBB\B|C/CCC\C|K/K|B\BBB/WW.*'WW/K|B\CCC/C|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|
+ /.WWWW\|/CCCCC\|/K/|BB\B/BB|K:\|/BBBBB\|/CCCCC\|/K/|BB\B/.WWWW\W/K/|BB\C/CC|K:\|/BBBBB\|/K/|K:\|/KK|K:\|/K/|K:\|
++-------+-------+K.K|BBBXBBB|K'K+-------+-------+K.K|BBB+-------+K.K|BBBXCCC|K'K+-------+K.K|K'K+KKK|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\:K|BB/B\BB|/K/C\CCCC'/|\CCCCC/|\:K|BB/|\CCCCC/|\:K|BB/B\CC|/K/|\BBBBB/|\:K|/K/|\KK|/K/|\:K|/K/|
+|C\CCC/C|C\CCC/C|K*K|B/BBB\B|K/CC.*'CC/K|C\CCC/C|K*K|B/B|C\CCC/C|K*K|B/BBB\C|K/K|B\BBB/B|K*K|K/K|K\K|K/K|K*K|K/K|
+|CC\C/CC|CC\C/CC|K:\|/BBBBB\|/.CCCC\C/K/|CC\C/CC|K:\|/BB|CC\C/CC|K:\|/BBBBB\|/K/|BB\B/BB|K:\|/K/|KK\|/K/|K:\|/K/|
+|CCCXCCC|CCCXCCC|K'K+-------+-------+K.K|CCCXCCC|K'K+---|CCCXCCC|K'K+-------+K.K|BBBXBBB|K'K+K.K|---+K.K|K'K+K.K|
+|CC/C\CC|CC/C\CC|/K/C\CCCC'/|\CCCCC/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|/K/|\BBBBB/|\:K|BB/B\BB|/K/|\:K|KK/|\:K|/K/|\:K|
+|C/CCC\C|C/CCC\C|K/CC.*'CC/K|B\CCC/C|K*K|C/CCC\C|K/K|B\B|C/CCC\C|K/K|B\BBB/B|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|
+|/CCCCC\|/CCCCC\|/.CCCC\C/K/|BB\C/CC|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/K/|BB\B/BB|K:\|/BBBBB\|/K/|K:\|/KK|K:\|/K/|K:\|
++-------+-------+-------+K.K|BBBXCCC|K'K+-------+K.K|BBB+-------+K.K|BBBXBBB|K'K+-------+K.K|K'K+KKK|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\:K|BB/B\CC|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\:K|BB/B\BB|/K/|\BBBBB/|\:K|/K/|\KK|/K/|\:K|/K/|
+|C\CCC/C|C\CCC/C|C\CCC/C|K*K|B/BBB\C|K/K|C\CCC/C|K*K|B/B|C\CCC/C|K*K|B/BBB\B|K/K|B\BBB/B|K*K|K/K|K\K|K/K|K*K|K/K|
+|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/BBBBB\|/K/|CC\C/CC|K:\|/BB|CC\C/CC|K:\|/BBBBB\|/K/|BB\B/BB|K:\|/K/|KK\|/K/|K:\|/K/|
+|CCCXCCC|CCCXCCC|CCCXCCC|K'K+-------+K.K|CCCXCCC|K'K+---|CCCXCCC|K'K+-------+K.K|BBBXBBB|K'K+K.K|---+K.K|K'K+K.K|
+|CC/C\CC|CC/C\CC|CC/C\CC|/K/C\CCCC'/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|/K/|\BBBBB/|\:K|BB/B\BB|/K/|\:K|KK/|\:K|/K/|\:K|
+|C/CCC\C|C/CCC\C|C/CCC\C|K/CC.*'CC/K|K*K|C/CCC\C|K/K|B\B|C/CCC\C|K/K|B\BBB/B|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|
+|/CCCCC\|/CCCCC\|/CCCCC\|/.CCCC\C/K/|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/K/|BB\B/BB|K:\|/BBBBB\|/K/|K:\|/KK|K:\|/K/|K:\|
++-------+-------+-------+-------+K.K|K'K+-------+K.K|BBB+-------+K.K|BBBXBBB|K'K+-------+K.K|K'K+KKK|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\:K|BB/B\BB|/K/|\BBBBB/|\:K|/K/|\KK|/K/|\:K|/K/|
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|C\CCC/C|K*K|B/B|C\CCC/C|K*K|B/BBB\B|K/K|B\BBB/B|K*K|K/K|K\K|K/K|K*K|K/K|
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|CC\C/CC|K:\|/BB|CC\C/CC|K:\|/BBBBB\|/K/|BB\B/BB|K:\|/K/|KK\|/K/|K:\|/K/|
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|CCCXCCC|K'K+---|CCCXCCC|K'K+-------+K.K|BBBXBBB|K'K+K.K|---+K.K|K'K+K.K|
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|/K/C\CCCC'/|\:K|BB/B\BB|/K/|\:K|KK/|\:K|/K/|\:K|
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|C/CCC\C|K/K|B\B|C/CCC\C|K/CC.*'CC/K|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/.CCCC\C/K/|K:\|/BBBBB\|/K/|K:\|/KK|K:\|/K/|K:\|
++-------+-------+-------+-------+K.K|K'K+-------+K.K|BBB+-------+-------+K.K|K'K+-------+K.K|K'K+KKK|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\CCCCC/|\:K|/K/|\BBBBB/|\:K|/K/|\KK|/K/|\:K|/K/|
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|C\CCC/C|K*K|B/B|C\CCC/C|C\CCC/C|K*K|K/K|B\BBB/B|K*K|K/K|K\K|K/K|K*K|K/K|
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|CC\C/CC|K:\|/BB|CC\C/CC|CC\C/CC|K:\|/K/|BB\B/BB|K:\|/K/|KK\|/K/|K:\|/K/|
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|CCCXCCC|K'K+---|CCCXCCC|CCCXCCC|K'K+K.K|BBBXBBB|K'K+K.K|---+K.K|K'K+K.K|
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|CC/C\CC|/K/|\:K|BB/B\BB|/K/|\:K|G'/|\:K|/K/|\:K|
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|C/CCC\C|K/K|B\B|C/CCC\C|C/CCC\C|K/K|K*K|B/BBB\B|K/K|K*K|G/K|K*K|K/K|K*K|
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/CCCCC\|/K/|K:\|/BBBBB\|/K/|K:\|/K/|K:\|/K/|K:\|
++-------+-------+-------+-------+K.K|K'K+-------+K.K|BBB+-------+-------+K.K|K'K+-------+K.K|K'K+K.K|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\CCCCC/|\:K|/K/C\CCCC'/|\:K|/K/|\:K|/K/|\:K|/K/|
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|C\CCC/C|K*K|B/B|C\CCC/C|C\CCC/C|K*K|K/CC.*'CC/K|K*K|K/K|K*K|K/K|K*K|K/K|
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|CC\C/CC|K:\|/BB|CC\C/CC|CC\C/CC|K:\|/.CCCC\C/K/|K:\|/K/|K:\|/K/|K:\|/K/|
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|CCCXCCC|K'K+---|CCCXCCC|CCCXCCC|K'K+-------+K.K|K'K+K.K|K'K+K.K|K'K+K.K|
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|CC/C\CC|/K/|\BBBBB/|\:K|/K/|\:K|/K/|\:K|/K/|\:K|
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|C/CCC\C|K/K|B\B|C/CCC\C|C/CCC\C|K/K|B\BBB/B|K*K|K/K|K*K|K/K|K*K|K/K|K*K|
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/CCCCC\|/K/|BB\B/BB|K:\|/K/|K:\|/K/|K:\|/K/|K:\|
++-------+-------+-------+-------+K.K|K'K+-------+K.K|BBB+-------+-------+K.K|BBBXBBB|K'K+K.K|K'K+K.K|K'K+K.K|K'K+-------+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\CCCCC/|\:K|BB/B\BB|/K/|\:K|/K/|\:K|/K/|\:K|/K/|\CCCC'/|
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|C\CCC/C|K*K|B/B|C\CCC/C|C\CCC/C|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|K/K|.*'CC/K|
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|CC\C/CC|K:\|/BB|CC\C/CC|CC\C/CC|K:\|/BBBBB\|/K/|K:\|/K/|K:\|/K/|K:\|/K/|CC\C/K/|
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|CCCXCCC|K'K+---|CCCXCCC|CCCXCCC|K'K+-------+K.K|K'K+K.K|K'K+K.K|K'K+K.K|---+K.K|
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|CC/C\CC|/K/|\BBBBB/|\:K|/K/|\:K|/K/|\:K|/K/|\:K|C'/|\:K|
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|C/CCC\C|K/K|B\B|C/CCC\C|C/CCC\C|K/K|B\BBB/B|K*K|K/K|K*K|K/K|K*K|K/K|K*K|C/K|K*K|
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/CCCCC\|/K/|BB\B/BB|K:\|/K/|K:\|/K/|K:\|/K/|K:\|/K/|K:\|
++-------+-------+-------+-------+K.K|K'K+-------+K.K|BBB+-------+-------+K.K|BBBXBBB|K'K+K.K|K'K+K.K|K'K+K.K|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\CCCCC/|\:K|BB/B\BB|/K/|\:K|/K/|\:K|/K/|\:K|/K/|\:K|/K/|
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|C\CCC/C|K*K|B/B|C\CCC/C|C\CCC/C|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|K/K|K*K|K/K|
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|CC\C/CC|K:\|/BB|CC\C/CC|CC\C/CC|K:\|/BBBBB\|/K/|K:\|/K/|K:\|/K/|K:\|/K/|K:\|/K/|
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|CCCXCCC|K'K+---|CCCXCCC|CCCXCCC|K'K+-------+K.K|K'K+K.K|K'K+K.K|K'K+K.K|K'K+K.K|
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|CC/C\CC|/K/|\BBBBB/|\:K|/K/|\:K|/K/|\:K|/K/|\:K|/K/|\:K|
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|C/CCC\C|K/K|B\B|C/CCC\C|C/CCC\C|K/K|B\BBB/B|K*K|K/K|K*K|K/K|K*K|K/K|K*K|K/K|K*K|
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/CCCCC\|/K/|BB\B/BB|K:\|/K/|K:\|/K/|K:\|/K/|K:\|/K/|K:\|
++-------+-------+-------+-------+K.K|K'K+-------+K.K|BBB+-------+-------+K.K|BBBXBBB|K'K+K.K|K'K+K.K|K'K+K.K|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\CCCCC/|\:K|BB/B\BB|/K/|\:K|/K/|\:K|/K/|\:K|/K/|\:K|/K/
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|C\CCC/C|K*K|B/B|C\CCC/C|C\CCC/C|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|K/K|K*K|K/
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|CC\C/CC|K:\|/BB|CC\C/CC|CC\C/CC|K:\|/BBBBB\|/K/|K:\|/K/|K:\|/K/|K:\|/K/|K:\|/
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|CCCXCCC|K'K+---|CCCXCCC|CCCXCCC|K'K+-------+K.K|K'K+K.K|K'K+K.K|K'K+K.K|K'K+
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|CC/C\CC|/K/|\BB|CC/C\CC|CC/C\CC|/K/|\BBBBB/|\:K|/K/|\:K|/K/|\:K|/K/|\:K|/K/
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|C/CCC\C|K/K|B\B|C/CCC\C|C/CCC\C|K/K|B\BBB/B|K*K|K/K|K*K|K/K|K*K|K/K|K*K|K/
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/CCCCC\|/K/|BB\|/CCCCC\|/CCCCC\|/K/|BB\B/BB|K:\|/K/|K:\|/K/|K:\|/K/|K:\|/
++-------+-------+-------+-------+K.K|K'K+-------+K.K|BBB+-------+-------+K.K|BBBXBBB|K'K+K.K|K'K+K.K|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\CCCCC/|\:K|BB/|\CCCCC/|\CCCCC/|\:K|BB/B\BB|/K/|\:K|/K/|\:K|/K/|\:K|/K/
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/C|C\CCC/C|K*K|B/B|C\CCC/C|C\CCC/C|K*K|B/BBB\B|K/K|K*K|K/K|K*K|K/K|K*K|K/
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/.C|CC\C/CC|K:\|/BB|CC\C/CC|CC\C/CC|K:\|/BBBBB\|/K/|K:\|/K/|K:\|/K/|K:\|/
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+---|CCCXCCC|K'K+---|CCCXCCC|CCCXCCC|K'K+-------+K.K|K'K+K.K|K'K+K.K|K'K+
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\BB|CC/C\CC|/K/|\BB|CC/C\CC|CC/C\CC|/K/C\CCCC'/|\:K|/K/|\:K|/K/|\:K|/K/
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|B\B|C/CCC\C|K/K|B\B|C/CCC\C|C/CCC\C|K/CC.*'CC/K|K*K|K/K|K*K|K/K|K*K|K/
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|BB\|/CCCCC\|/K/|BB\|/CCCCC\|/CCCCC\|/.CCCC\C/K/|K:\|/K/|K:\|/K/|K:\|/
++-------+-------+-------+-------+K.K|BBB+-------+K.K|BBB+-------+-------+-------+K.K|K'K+K.K|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|BB/|\CCCCC/|\:K|BB/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\:K|/K/|\:K|/K/
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|B/B|C\CCC/C|K*K|B/B|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|K*K|K/K|K*K|K/
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/BB|CC\C/CC|K:\|/BB|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|K:\|/K/|K:\|/
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+---|CCCXCCC|K'K+---|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|K'K+K.K|K'K+
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/C\CC|CC/C\CC|/K/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|/K/|\:K|/K/
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/CC.*'|C/CCC\C|K/CC.*'|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|K/K|K*K|K/
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/.CCCC\|/CCCCC\|/.CCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/K/|K:\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+K.K|K'K+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/|\:K|/K/
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/K|K*K|K/
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/K/|K:\|/
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+K.K|K'K+
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/|\:K|/K/
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/K|K*K|K/
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/K/|K:\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+K.K|K'K+
+|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\CCCCC/|\:K|/K/
+|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|C\CCC/C|K*K|K/
+|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|CC\C/CC|K:\|/
+|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|CCCXCCC|K'K+
+|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|CC/C\CC|/K/
+|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|C/CCC\C|K/
+|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/CCCCC\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+

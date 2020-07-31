@@ -1,0 +1,157 @@
+                                                                                            +-------+
+                                                                                           /W\WWWW'/|
+                                                                                          /WW.*'WW/W|
+                                                                                         /.WWWW\W/W/|
+                                                                        +-------+       +-------+W.W|
+                                                                       /W\WWWW'/|       |\YYYYY/|\:W|
+                                                                      /WW.*'WW/W|       |Y\YYY/Y|W*W|
+                                                                     /.WWWW\W/W/|       |YY\Y/YY|W:\|
+                            +-------+                               +-------+W.W|       |YYYXYYY|W'W+-------+
+                           /W\WWWW'/|                              /|\YYYYY/|\:W|       |YY/Y\YY|/W/W\WWWW'/|
+                          /WW.*'WW/W|                             /W|Y\YYY/Y|W*W|       |Y/YYY\Y|W/WW.*'WW/W|
+                         /.WWWW\W/W/|                            /.W|YY\Y/YY|W:\|       |/YYYYY\|/.WWWW\W/W/|
+                        +-------+W.W|                           +---|YYYXYYY|W'W+       +-------+-------+W.W|
+                       /W\WWWW'/|\:W|                           |\GG|YY/Y\YY|/W/|      /W\WWWW'/|\YYYYY/|\:W|
+                      /WW.*'WW/W|W*W|                           |G\G|Y/YYY\Y|W/Y|     /WW.*'WW/W|Y\YYY/Y|W*W|
+                     /.WWWW\W/W/|W:\|                           |GG\|/YYYYY\|/Y/|    /.WWWW\W/W/|YY\Y/YY|W:\|
+                    +-------+W.W|W'W+-------+       +-------+   |GGG+-------+Y.Y|   +-------+W.W|YYYXYYY|W'W+
+                   /W\WWWW'/|\:W|/W/W\WWWW'/|      /W\WWWW'/|   |GG/|\YYYYY/|\:Y|   |\YYYYY/|\:W|YY/Y\YY|/W/|
+                  /WW.*'WW/W|W*W|W/WW.*'WW/W|     /WW.*'WW/P|   |G/G|Y\YYY/Y|Y*Y|   |Y\YYY/Y|W*W|Y/YYY\Y|W/W|
+                 /.WWWW\W/W/|W:\|/.WWWW\W/W/|    /.WWWW\W/P/|   |/GG|YY\Y/YY|Y:\|   |YY\Y/YY|W:\|/YYYYY\|/W/|
+                +-------+W.W|W'W+-------+W.W|   +-------+P.P|---+---|YYYXYYY|Y'Y+   |YYYXYYY|W'W+-------+W.W|
+                |\YYYYY/|\:W|/W/|\YYYYY/|\:W|   |\YYYYY/|\:P|W'/|\GG|YY/Y\YY|/Y/|   |YY/Y\YY|/W/|\YYYY'/|\:W|
+                |Y\YYY/Y|W*W|W/C|Y\YYY/Y|W*W|   |Y\YYY/Y|P*P|W/C|G\G|Y/YYY\Y|Y/G|   |Y/YYY\Y|W/W|.*'WW/W|W*W|
+                |YY\Y/YY|W:\|/C/|YY\Y/YY|W:\|   |YY\Y/YY|P:\|/C/|GG\|/YYYYY\|/G/|   |/YYYYY\|/W/|WW\W/W/|W:\|
+            +-------+YYY|W'W+C.C|YYYXYYY|W'W+   |YYYXYYY|P'P+C.C|GGG+-------+G.G|   +-------+W.W|---+W.W|W'W+-------+
+           /W\WWWW'/|\YY|/W/|\:C|YY/Y\YY|/W/|   |YY/Y\YY|/P/|\:C|GG/|\YYYYY/|\:G|  /|\YYYYY/|\:W|RR/|\:W|/W/W\WWWW'/|
+          /WW.*'WW/W|Y\Y|W/P|C*C|Y/YYY\Y|W/W|   |Y/YYY\Y|P/P|C*C|G/G|Y\YYY/Y|G*G| /W|Y\YYY/Y|W*W|R/R|W*W|W/WW.*'WW/W|
+         /.WWWW\W/W/|YY\|/P/|C:\|/YYYYY\|/W/|   |/YYYYY\|/P/|C:\|/GG|YY\Y/YY|G:\|/.Y|YY\Y/YY|W:\|/RR|W:\|/.WWWW\W/W/|
+        +-------+-------+P.P|C'C+-------+W.W|   +-------+P.P|C'C+---|YYYXYYY|G'G+---|YYYXYYY|W'W+RRR|W'W+-------+W.W|
+        |\YYYYY/W\WWWW'/|\:P|/C/Y\YYYY'/|\:W|   |\RRRRR/|\:P|/C/|\GG|YY/Y\YY|/G/|\GG|YY/Y\YY|/W/|\RR|/W/|\YYYYY/|\:W|
+        |Y\YYY/WW.*'WW/W|P*P|C/YY.*'WW/W|W*W|   |R\RRR/R|P*P|C/C|G\G|Y/YYY\Y|G/G|G\G|Y/YYY\Y|W/W|R\R|W/W|Y\YYY/Y|W*W|
+        |YY\Y/.WWWW\W/W/|P:\|/.WWWW\W/W/|W:\|   |RR\R/RR|P:\|/C/|GG\|/YYYYY\|/G/|GG\|/YYYYY\|/W/|RR\|/W/|YY\Y/YY|W:\|
+        |YYY+-------+W.W|P'P+-------+W.W|W'W+   |RRRXRRR|P'P+C.C|GGG+-------+G.G|GGG+-------+W.W|---+W.Y|YYYXYYY|W'W+
+        |YY/|\YYYYY/|\:W|/P/|\YYYYY/|\:W|/W/|   |RR/R\RR|/P/|\:C|GG/Y\YYYY'/|\:G|GG/|\YYYYY/|\:W|RR/|\:Y|YY/Y\YY|/W/|
+        |Y/G|Y\YYY/Y|W*W|P/B|Y\YYY/Y|W*W|W/W|   |R/RRR\R|P/P|C*C|G/YY.*'YY/Y|G*G|G/G|Y\YYY/Y|W*W|R/R|W*Y|Y/YYY\Y|W/W|
+        |/GG|YY\Y/YY|W:\|/B/|YY\Y/YY|W:\|/W/|   |/RRRRR\|/P/|C:\|/.YYYY\Y/Y/|G:\|/GG|YY\Y/YY|W:\|/RR|W:\|/YYYYY\|/W/|
+        +---|YYYXYYY|W'W+B.B|YYYXYYY|W'W+W.Y|   +-------+P.P|C'C+-------+Y.Y|G'G+-------+YYY|W'W+RRR|W'Y+-------+W.W|
+        |\GG|YY/Y\YY|/W/|\:B|YY/Y\YY|/W/|\:Y|  /W\WWWW'/|\:P|/C/|\YYYYY/|\:Y|/G/W\WWWW'/|\YY|/W/|\RR|/Y/|\YYYYY/|\:W|
+        |G\G|Y/YYY\Y|W/W|B*B|Y/YYY\Y|W/W|W*Y| /WW.*'WW/W|P*P|C/C|Y\YYY/Y|Y*Y|G/WW.*'WW/W|Y\Y|W/W|R\R|Y/Y|Y\YYY/Y|W*W|
+        |GG\|/YYYYY\|/W/|B:\|/YYYYY\|/W/|W:\|/.WWWW\W/W/|P:\|/C/|YY\Y/YY|Y:\|/.WWWW\W/W/|YY\|/W/|RR\|/Y/|YY\Y/YY|W:\|
+        |GGG+-------+W.W|B'B+-------+W.W|W'Y+-------+W.W|---+---|YYY+-------+-------+W.W|---+W.W|---+-------+YYY|W'W+
+        |GG/|\YYYYY/|\:W|/B/|\YYYYY/|\:W|/Y/|\YYYYY/|\:W|Y'/Y\GG|YY/W\WWWW'/|\YYYYY/|\:W|YY/|\:W|RR/W\WWWW'/|\YY|/W/|
+        |G/G|Y\YYY/Y|W*W|B/B|Y\YYY/Y|W*W|Y/G|Y\YYY/Y|W*W|Y/YY.*'|Y/WW.*'WW/C|Y\YYY/Y|W*W|Y/Y|W*W|R/WW.*'WW/W|Y\Y|W/W|
+        |/GG|YY\Y/YY|W:\|/B/|YY\Y/YY|W:\|/G/|YY\Y/YY|W:\|/.YYYY\|/.WWWW\W/C/|YY\Y/YY|W:\|/YY|W:\|/.WWWW\W/W/|YY\|/W/|
+        +---|YYYXYYY|W'W+B.B|YYYXYYY|W'W+G.G|YYYXYYY|W'W+-------+-------+C.C|YYYXYYY|W'W+YYY|W'W+-------+W.W|---+W.W|
+        |\GG|YY/Y\YY|/W/|\:B|YY/Y\YY|/W/|\:G|YY/Y\YY|/W/|\RRRRR/|\YYYYY/|\:C|YY/Y\YY|/W/|\YY|/W/|\YYYYY/|\:W|RR/|\:W|
+        |G\G|Y/YYY\Y|W/W|B*B|Y/YYY\Y|W/P|G*G|Y/YYY\Y|W/W|R\RRR/R|Y\YYY/Y|C*C|Y/YYY\Y|W/W|Y\Y|W/W|Y\YYY/Y|W*W|R/R|W*W|
+        |GG\|/YYYYY\|/W/|B:\|/YYYYY\|/P/|G:\|/YYYYY\|/W/|RR\R/RR|YY\Y/YY|C:\|/YYYYY\|/W/|YY\|/W/|YY\Y/YY|W:\|/RR|W:\|
+        |GGG+-------+W.W|B'B+-------+P.P|G'G+-------+W.W|RRRXRRR|YYYXYYY|C'C+-------+W.W|---+W.Y|YYYXYYY|W'W+RRR|W'W+
+        |GG/|\YYYYY/|\:W|/B/|\YYYYY/|\:P|/G/|\YYYYY/|\:W|RR/R\RR|YY/Y\YY|/C/|\YYYYY/|\:W|Y'/|\:Y|YY/Y\YY|/W/|\RR|/W/|
+        |G/G|Y\YYY/Y|W*W|B/B|Y\YYY/Y|P*P|G/G|Y\YYY/Y|W*W|R/RRR\R|Y/YYY\Y|C/C|Y\YYY/Y|W*W|W/W|W*Y|Y/YYY\Y|W/W|R\R|W/W|
+        |/GG|YY\Y/YY|W:\|/.K|YY\Y/YY|P:\|/G/|YY\Y/YY|W:\|/RRRRR\|/YYYYY\|/C/|YY\Y/YY|W:\|/W/|W:\|/YYYYY\|/W/|RR\|/W/|
+        +---|YYYXYYY|W'W+---|YYYXYYY|P'P+---|YYYXYYY|W'W+-------+-------+C.C|YYYXYYY|W'W+W.W|W'Y+-------+W.W|---+W.W|
+       /Y\GG|YY/Y\YY|/W/|\KK|YY/Y\YY|/P/W\WW|YY/Y\YY|/W/|\KKKKK/|\YYYYY/|\:C|YY/Y\YY|/W/|\:W|/Y/|\RRRRR/|\:W|RR/|\:W|
+      /YY.*'|Y/YYY\Y|W/W|K\K|Y/YYY\Y|P/WW.*'|Y/YYY\Y|W/W|K\KKK/K|Y\YYY/Y|C*C|Y/YYY\Y|W/W|W*W|Y/Y|R\RRR/R|W*W|R/R|W*W|
+     /.YYYY\|/YYYYY\|/W/|KK\|/YYYYY\|/.YYYY\|/YYYYY\|/W/|KK\K/KK|YY\Y/YY|C:\|/YYYYY\|/W/|W:\|/Y/|RR\R/RR|W:\|/RR|W:\|
+    +-------+-------+W.W|KKK+-------+-------+-------+W.W|KKKXKKK|YYYXYYY|C'C+-------+W.W|W'W+-------+RRR|W'W+RRR|W'W+
+   /Y\YYYY'/|\YYYYY/|\:W|KK/|\YYYYY/W\WWWW'/|\YYYYY/|\:W|KK/K\KK|YY/Y\YY|/C/|\YYYYY/|\:W|/W/W\WWWW'/|\RR|/W/|\RR|/W/|
+  /YY.*'YY/Y|Y\YYY/Y|W*W|K/K|Y\YYY/WW.*'WW/W|Y\YYY/Y|W*W|K/KKK\K|Y/YYY\Y|C/C|Y\YYY/Y|W*W|W/WW.*'WW/W|R\R|W/W|R\R|W/W|
+ /.YYYY\Y/Y/|YY\Y/YY|W:\|/KK|YY\Y/.WWWW\W/W/|YY\Y/YY|W:\|/KKKKK\|/YYYYY\|/C/|YY\Y/YY|W:\|/.WWWW\W/W/|RR\|/W/|RR\|/W/|
++-------+Y.Y|YYYXYYY|W'W+-------+-------+W.W|YYY+-------+-------+-------+C.G|YYYXYYY|W'W+-------+W.W|---+W.W|---+W.W|
+|\YYYYY/|\:Y|YY/Y\YY|/W/Y\YYYY'/|\YYYYY/|\:W|YY/Y\YYYY'/|\KKKKK/|\YYYYY/|\:G|YY/Y\YY|/W/|\RRRRR/|\:W|RR/|\:W|RR/|\:W|
+|Y\YYY/Y|Y*Y|Y/YYY\Y|W/YY.*'YY/Y|Y\YYY/Y|W*W|Y/YY.*'YY/R|K\KKK/G|Y\YYY/Y|C*G|Y/YYY\Y|W/W|R\RRR/R|W*W|R/R|W*W|R/R|W*W|
+|YY\Y/YY|Y:\|/YYYYY\|/.YYYY\Y/.W|YY\Y/YY|W:\|/.YYYY\Y/R/|KK\K/.G|YY\Y/YY|C:\|/YYYYY\|/W/|RR\R/RR|W:\|/RR|W:\|/RR|W:\|
+|YYYXYYY|Y'Y+-------+-------+---|YYYXYYY|W'W+-------+R.R|---+---|YYYXYYY|C'G+-------+W.W|RRRXRRR|W'W+RRR|W'W+RRR|W'W+
+|YY/Y\YY|/Y/|\YYYYY/|\YYYYY/|\GG|YY/Y\YY|/W/|\YYYYY/|\:R|K'/Y\YY|YY/Y\YY|/G/|\YYYYY/|\:W|RR/R\RR|/W/|\RR|/W/|\RR|/W/|
+|Y/YYY\Y|Y/Y|Y\YYY/Y|Y\YYY/Y|G\G|Y/YYY\Y|W/Y|Y\YYY/Y|R*R|K/YY.*'|Y/YYY\Y|G/G|Y\YYY/Y|W*W|R/RRR\R|W/W|R\R|W/W|R\R|W/W|
+|/YYYYY\|/Y/|YY\Y/YY|YY\Y/YY|GG\|/YYYYY\|/Y/|YY\Y/YY|R:\|/.YYYY\|/YYYYY\|/G/|YY\Y/YY|W:\|/RRRRR\|/W/|RR\|/W/|RR\|/W/|
++-------+Y.Y|YYYXYYY|YYYXYYY|GGG+-------+Y.Y|YYYXYYY|R'R+-------+-------+G.G|YYYXYYY|W'W+-------+W.W|---+W.W|---+W.W|
+|\YYYYY/|\:Y|YY/Y\YY|YY/Y\YY|GG/|\YYYYY/|\:Y|YY/Y\YY|/R/|\YYYYY/|\YYYYY/|\:G|YY/Y\YY|/W/|\YYYY'/|\:W|RR/|\:W|Y'/|\:W|
+|Y\YYY/Y|Y*Y|Y/YYY\Y|Y/YYY\Y|G/G|Y\YYY/Y|Y*Y|Y/YYY\Y|R/R|Y\YYY/Y|Y\YYY/Y|G*G|Y/YYY\Y|W/W|.*'WW/W|W*W|R/R|W*W|W/W|W*W|
+|YY\Y/YY|Y:\|/YYYYY\|/YYYYY\|/GG|YY\Y/YY|Y:\|/YYYYY\|/R/|YY\Y/YY|YY\Y/YY|G:\|/YYYYY\|/W/|WW\W/W/|W:\|/RR|W:\|/W/|W:\|
+|YYYXYYY|Y'Y+-------+-------+---|YYYXYYY|Y'Y+-------+-------+YYY|YYYXYYY|G'G+-------+W.W|---+W.W|W'W+RRR|W'W+W.W|W'W+
+|YY/Y\YY|/Y/|\YYYYY/|\YYYYY/Y\GG|YY/Y\YY|/Y/|\YYYYY/Y\YYYY'/|\YY|YY/Y\YY|/G/|\YYYYY/|\:W|RR/|\:W|/W/|\RR|/W/|\:W|/W/|
+|Y/YYY\Y|Y/Y|Y\YYY/Y|Y\YYY/YY.*'|Y/YYY\Y|Y/Y|Y\YYY/YY.*'WW/W|Y\Y|Y/YYY\Y|G/G|Y\YYY/Y|W*W|R/R|W*W|W/W|R\R|W/W|W*W|W/W|
+|/YYYYY\|/Y/|YY\Y/YY|YY\Y/.YYYY\|/YYYYY\|/Y/|YY\Y/.WWWW\W/W/|YY\|/YYYYY\|/G/|YY\Y/YY|W:\|/RR|W:\|/W/|RR\|/W/|W:\|/W/|
++-------+Y.Y|YYYXYYY|YYY+-------+-------+Y.Y|YYY+-------+W.W|---+-------+G.G|YYYXYYY|W'W+RRR|W'W+W.W|---+W.W|W'W+W.W|---+
+|\YYYYY/|\:Y|YY/Y\YY|YY/|\YYYYY/|\YYYYY/|\:Y|YY/|\YYYYY/|\:W|RR/|\YYYYY/|\:G|YY/Y\YY|/W/|\RR|/W/|\:W|Y'/|\:W|/W/|\:W|W'/|
+|Y\YYY/Y|Y*Y|Y/YYY\Y|Y/G|Y\YYY/Y|Y\YYY/Y|Y*Y|Y/G|Y\YYY/Y|W*W|R/R|Y\YYY/Y|G*G|Y/YYY\Y|W/W|R\R|W/W|W*W|W/W|W*W|W/W|W*W|W/W|
+|YY\Y/YY|Y:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|Y:\|/GG|YY\Y/YY|W:\|/RR|YY\Y/YY|G:\|/YYYYY\|/W/|RR\|/W/|W:\|/W/|W:\|/W/|W:\|/W/|
+|YYYXYYY|Y'Y+-------+---|YYYXYYY|YYYXYYY|Y'Y+---|YYYXYYY|W'W+RRR|YYYXYYY|G'G+-------+W.W|---+W.W|W'W+W.W|W'W+W.W|W'W+W.W|
+|YY/Y\YY|/Y/|\YYYYY/|\GG|YY/Y\YY|YY/Y\YY|/Y/|\GG|YY/Y\YY|/W/|\RR|YY/Y\YY|/G/|\YYYYY/|\:W|RR/|\:W|/W/|\:W|/W/|\:W|/W/|\:W|
+|Y/YYY\Y|Y/R|Y\YYY/Y|G\G|Y/YYY\Y|Y/YYY\Y|Y/R|G\G|Y/YYY\Y|W/W|R\R|Y/YYY\Y|G/G|Y\YYY/Y|W*W|R/R|W*W|W/W|W*W|W/W|W*W|W/W|W*W|
+|/YYYYY\|/R/|YY\Y/YY|GG\|/YYYYY\|/YYYYY\|/R/|GG\|/YYYYY\|/W/|RR\|/YYYYY\|/G/|YY\Y/YY|W:\|/RR|W:\|/W/|W:\|/W/|W:\|/W/|W:\|
++-------+R.R|YYYXYYY|GGG+-------+-------+R.R|GGG+-------+W.W|---+-------+G.G|YYYXYYY|W'W+RRR|W'W+W.W|W'W+W.W|W'W+W.W|W'W+
+|\YYYYY/|\:R|YY/Y\YY|GG/|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\:W|RR/|\YYYYY/|\:G|YY/Y\YY|/W/|\RR|/W/|\:W|/W/|\:W|/W/|\:W|/W/|
+|Y\YYY/Y|R*R|Y/YYY\Y|G/G|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|W*W|R/R|Y\YYY/Y|G*G|Y/YYY\Y|W/W|R\R|W/W|W*W|W/W|W*W|W/W|W*W|W/W|
+|YY\Y/YY|R:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|W:\|/RR|YY\Y/YY|G:\|/YYYYY\|/W/|RR\|/W/|W:\|/W/|W:\|/W/|W:\|/W/|
+|YYYXYYY|R'R+-------+---|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|W'W+RRR|YYYXYYY|G'G+-------+W.W|---+W.W|W'W+W.W|W'W+W.W|W'W+W.W|
+|YY/Y\YY|/R/|\YYYYY/|\GG|YY/Y\YY|YY/Y\YY|/R/|\GG|YY/Y\YY|/W/|\RR|YY/Y\YY|/G/|\YYYYY/|\:W|RR/|\:W|/W/|\:W|/W/|\:W|/W/|\:W|
+|Y/YYY\Y|R/R|Y\YYY/Y|G\G|Y/YYY\Y|Y/YYY\Y|R/R|G\G|Y/YYY\Y|W/W|R\R|Y/YYY\Y|G/G|Y\YYY/Y|W*W|R/R|W*W|W/W|W*W|W/W|W*W|W/W|W*W|
+|/YYYYY\|/R/|YY\Y/YY|GG\|/YYYYY\|/YYYYY\|/R/|GG\|/YYYYY\|/W/|RR\|/YYYYY\|/G/|YY\Y/YY|W:\|/RR|W:\|/W/|W:\|/W/|W:\|/W/|W:\|
++-------+R.R|YYYXYYY|GGG+-------+-------+R.R|GGG+-------+W.W|---+-------+---|YYYXYYY|W'W+RRR|W'W+W.W|W'W+W.W|W'W+W.W|W'W+
+|\YYYYY/|\:R|YY/Y\YY|GG/|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\:W|RR/|\YYYYY/Y\GG|YY/Y\YY|/W/|\RR|/W/|\:W|/W/|\:W|/W/|\:W|/W/|
+|Y\YYY/Y|R*R|Y/YYY\Y|G/G|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|W*W|R/R|Y\YYY/YY.*'|Y/YYY\Y|W/W|R\R|W/W|W*W|W/W|W*W|W/W|W*W|W/W|
+|YY\Y/YY|R:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|W:\|/RR|YY\Y/.YYYY\|/YYYYY\|/W/|RR\|/W/|W:\|/W/|W:\|/W/|W:\|/W/|
+|YYYXYYY|R'R+-------+---|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|W'W+RRR|YYY+-------+-------+W.W|---+W.W|W'W+W.W|W'W+W.W|W'W+W.W|
+|YY/Y\YY|/R/|\YYYYY/|\GG|YY/Y\YY|YY/Y\YY|/R/|\GG|YY/Y\YY|/W/|\RR|YY/|\YYYYY/|\YYYYY/|\:W|RR/|\:W|/W/|\:W|/W/|\:W|/W/|\:W|
+|Y/YYY\Y|R/R|Y\YYY/Y|G\G|Y/YYY\Y|Y/YYY\Y|R/R|G\G|Y/YYY\Y|W/W|R\R|Y/G|Y\YYY/Y|Y\YYY/Y|W*W|R/R|W*W|W/W|W*W|W/W|W*W|W/W|W*W|
+|/YYYYY\|/R/|YY\Y/YY|GG\|/YYYYY\|/YYYYY\|/R/|GG\|/YYYYY\|/W/|RR\|/GG|YY\Y/YY|YY\Y/YY|W:\|/RR|W:\|/W/|W:\|/W/|W:\|/W/|W:\|
++-------+R.R|YYYXYYY|GGG+-------+-------+R.R|GGG+-------+W.Y|---+---|YYYXYYY|YYYXYYY|W'W+RRR|W'W+W.W|W'W+W.W|W'W+W.W|W'W+
+|\YYYYY/|\:R|YY/Y\YY|GG/|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\:Y|RR/|\GG|YY/Y\YY|YY/Y\YY|/W/|\RR|/W/|\:W|/W/|\:W|/W/|\:W|/W/|
+|Y\YYY/Y|R*R|Y/YYY\Y|G/G|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|W*Y|R/R|G\G|Y/YYY\Y|Y/YYY\Y|W/W|R\R|W/W|W*W|W/W|W*W|W/W|W*W|W/W|
+|YY\Y/YY|R:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|W:\|/RR|GG\|/YYYYY\|/YYYYY\|/W/|RR\|/W/|W:\|/W/|W:\|/W/|W:\|/W/|
+|YYYXYYY|R'R+-------+---|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|W'Y+RRR|GGG+-------+-------+W.W|---+W.W|W'W+W.W|W'W+W.W|W'W+W.W|
+|YY/Y\YY|/R/|\YYYYY/|\GG|YY/Y\YY|YY/Y\YY|/R/|\GG|YY/Y\YY|/Y/|\RR|GG/|\YYYYY/|\YYYYY/|\:W|RR/|\:W|/W/|\:W|/W/|\:W|/W/|\:W|
+|Y/YYY\Y|R/R|Y\YYY/Y|G\G|Y/YYY\Y|Y/YYY\Y|R/R|G\G|Y/YYY\Y|Y/Y|R\R|G/G|Y\YYY/Y|Y\YYY/Y|W*W|R/R|W*W|W/W|W*W|W/W|W*W|W/W|W*W|
+|/YYYYY\|/R/|YY\Y/YY|GG\|/YYYYY\|/YYYYY\|/R/|GG\|/YYYYY\|/Y/|RR\|/GG|YY\Y/YY|YY\Y/YY|W:\|/RR|W:\|/W/|W:\|/W/|W:\|/W/|W:\|
++-------+R.R|YYYXYYY|GGG+-------+-------+R.R|GGG+-------+Y.Y|---+---|YYYXYYY|YYYXYYY|W'W+RRR|W'W+W.W|W'W+W.W|W'W+W.W|W'W+
+|\YYYYY/|\:R|YY/Y\YY|GG/|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\:Y|RR/|\GG|YY/Y\YY|YY/Y\YY|/W/|\RR|/W/|\:W|/W/|\:W|/W/|\:W|/W/|
+|Y\YYY/Y|R*R|Y/YYY\Y|G/G|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|Y*Y|R/R|G\G|Y/YYY\Y|Y/YYY\Y|W/W|R\R|W/W|W*W|W/W|W*W|W/W|W*W|W/W|
+|YY\Y/YY|R:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|Y:\|/RR|GG\|/YYYYY\|/YYYYY\|/W/|RR\|/W/|W:\|/W/|W:\|/W/|W:\|/W/|
+|YYYXYYY|R'R+-------+---|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|Y'Y+RRR|GGG+-------+-------+W.W|---+W.W|W'W+W.W|W'W+W.W|W'W+W.W|
+|YY/Y\YY|/R/|\YYYYY/|\GG|YY/Y\YY|YY/Y\YY|/R/Y\GG|YY/Y\YY|/Y/|\RR|GG/|\YYYYY/Y\YYYY'/|\:W|RR/|\:W|/W/|\:W|/W/|\:W|/W/|\:W|
+|Y/YYY\Y|R/R|Y\YYY/Y|G\G|Y/YYY\Y|Y/YYY\Y|R/YY.*'|Y/YYY\Y|Y/Y|R\R|G/G|Y\YYY/YY.*'WW/W|W*W|R/R|W*W|W/W|W*W|W/W|W*W|W/W|W*W|
+|/YYYYY\|/R/|YY\Y/YY|GG\|/YYYYY\|/YYYYY\|/.YYYY\|/YYYYY\|/Y/|RR\|/GG|YY\Y/.WWWW\W/W/|W:\|/RR|W:\|/W/|W:\|/W/|W:\|/W/|W:\|
++-------+R.R|YYYXYYY|GGG+-------+-------+-------+-------+Y.Y|---+---|YYY+-------+W.W|W'W+RRR|W'W+W.W|W'W+W.W|W'W+W.W|W'W+
+|\YYYYY/|\:R|YY/Y\YY|GG/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\:Y|R'/|\GG|YY/|\YYYYY/|\:W|/W/|\RR|/W/|\:W|/W/|\:W|/W/|\:W|/W/
+|Y\YYY/Y|R*R|Y/YYY\Y|G/G|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y*Y|R/R|G\G|Y/G|Y\YYY/Y|W*W|W/W|R\R|W/W|W*W|W/W|W*W|W/W|W*W|W/
+|YY\Y/YY|R:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|Y:\|/R/|GG\|/GG|YY\Y/YY|W:\|/W/|RR\|/W/|W:\|/W/|W:\|/W/|W:\|/
+|YYYXYYY|R'R+-------+---|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|Y'Y+-------+---|YYYXYYY|W'W+W.W|---+W.W|W'W+W.W|W'W+W.W|W'W+
+|YY/Y\YY|/R/|\YYYYY/|\GG|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|/Y/Y\YYYY'/|\GG|YY/Y\YY|/W/|\:W|RR/|\:W|/W/|\:W|/W/|\:W|/W/
+|Y/YYY\Y|R/R|Y\YYY/Y|G\G|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YY.*'YY/R|G\G|Y/YYY\Y|W/W|W*W|R/R|W*W|W/W|W*W|W/W|W*W|W/
+|/YYYYY\|/R/|YY\Y/YY|GG\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/.YYYY\Y/R/|GG\|/YYYYY\|/W/|W:\|/RR|W:\|/W/|W:\|/W/|W:\|/
++-------+R.R|YYYXYYY|GGG+-------+-------+-------+-------+-------+R.R|GGG+-------+W.W|W'W+RRR|W'W+W.W|W'W+W.W|W'W+
+|\YYYYY/|\:R|YY/Y\YY|GG/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\:W|/W/|\RR|/W/|\:W|/W/|\:W|/W/
+|Y\YYY/Y|R*R|Y/YYY\Y|G/G|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|W*W|W/W|R\R|W/W|W*W|W/W|W*W|W/
+|YY\Y/YY|R:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|W:\|/W/|RR\|/W/|W:\|/W/|W:\|/
+|YYYXYYY|R'R+-------+---|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|W'W+W.W|---+W.W|W'W+W.W|W'W+
+|YY/Y\YY|/R/|\YYYYY/|\GG|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|/R/|\GG|YY/Y\YY|/W/|\:W|RR/|\:W|/W/|\:W|/W/
+|Y/YYY\Y|R/R|Y\YYY/Y|G\G|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|R/R|G\G|Y/YYY\Y|W/W|W*W|R/R|W*W|W/W|W*W|W/
+|/YYYYY\|/R/|YY\Y/YY|GG\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/R/|GG\|/YYYYY\|/W/|W:\|/RR|W:\|/W/|W:\|/
++-------+R.R|YYYXYYY|GGG+-------+-------+-------+-------+-------+R.R|GGG+-------+W.W|W'W+RRR|W'W+W.W|W'W+
+|\YYYYY/|\:R|YY/Y\YY|GG/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\:W|/W/|\RR|/W/|\:W|/W/
+|Y\YYY/Y|R*R|Y/YYY\Y|G/G|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|W*W|W/W|R\R|W/W|W*W|W/
+|YY\Y/YY|R:\|/YYYYY\|/GG|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|W:\|/W/|RR\|/W/|W:\|/
+|YYYXYYY|R'R+-------+---|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|W'W+W.W|---+W.W|W'W+
+|YY/Y\YY|/R/Y\YYYY'/|\GG|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|/R/|\GG|YY/Y\YY|/W/|\:W|Y'/|\:W|/W/
+|Y/YYY\Y|R/YY.*'YY/R|G\G|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|R/R|G\G|Y/YYY\Y|W/W|W*W|W/W|W*W|W/
+|/YYYYY\|/.YYYY\Y/R/|GG\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/R/|GG\|/YYYYY\|/W/|W:\|/W/|W:\|/
++-------+-------+R.R|GGG+-------+-------+-------+-------+-------+R.R|GGG+-------+W.W|W'W+W.W|W'W+
+|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\:R|GG/|\YYYYY/|\:W|/W/|\:W|/W/
+|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|R*R|G/G|Y\YYY/Y|W*W|W/W|W*W|W/
+|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|R:\|/GG|YY\Y/YY|W:\|/W/|W:\|/
+|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|R'R+---|YYYXYYY|W'W+W.W|W'W+
+|YY/Y\YY|YY/Y\YY|/R/Y\GG|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|/R/Y\GG|YY/Y\YY|/W/|\:W|/W/
+|Y/YYY\Y|Y/YYY\Y|R/YY.*'|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|R/YY.*'|Y/YYY\Y|W/W|W*W|W/
+|/YYYYY\|/YYYYY\|/.YYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/.YYYY\|/YYYYY\|/W/|W:\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+W.W|W'W+
+|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\:W|/W/
+|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|W*W|W/
+|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|W:\|/
+|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|W'W+
+|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|/W/
+|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|W/
+|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
